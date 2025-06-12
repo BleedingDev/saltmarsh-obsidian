@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Welcome",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
                   "title": "Graph view",
                   "icon": "lucide-git-fork",
                   "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
@@ -310,7 +316,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Vault Maintenance Guide.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -325,7 +331,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Vault Maintenance Guide"
             }
           }
         ]
@@ -606,38 +612,41 @@
   },
   "active": "0dcb0423aa258ae0",
   "lastOpenFiles": [
-    "create a link.md",
     "Welcome.md",
-    "z_Attachments",
+    "Vault Maintenance Guide.md",
+    "z_Assets",
+    "2. Mechanics/Spells",
+    "2. Mechanics/Sound Board",
+    "2. Mechanics/Random Tables",
+    "2. Mechanics/Non-Player Characters",
+    "2. Mechanics/Languages",
+    "2. Mechanics/Items",
+    "2. Mechanics/Guilds and Groups",
+    "2. Mechanics/Feats",
+    "2. Mechanics/Dictionary",
+    "create a link.md",
     "z_Templates/Dangers/Trap.md",
     "z_Templates/Dangers/Poison.md",
     "z_Templates/Dangers/Hazard.md",
     "z_Templates/Dangers/Disease.md",
     "z_Templates/Quote.md",
-    "z_Templates/Dangers",
     "z_Templates/Warning.md",
     "z_Templates/Other/Concept.md",
-    "z_Templates/Other",
     "z_Templates/Events/Time Period.md",
     "z_Templates/Events/Storyline.md",
     "z_Templates/Events/Scene.md",
     "z_Templates/Events/Quest.md",
     "z_Templates/Events/Incident.md",
     "z_Templates/Things/Named Vehicle.md",
-    "z_Templates/Events",
     "z_Templates/Things/Named Object.md",
     "z_Templates/Things/Named Equipment.md",
     "z_Templates/Group/Group Criminal.md",
-    "z_Templates/Things",
     "z_Templates/Group/Group Religious.md",
     "z_Templates/Group/Group Other.md",
     "z_Templates/Group/Group Military.md",
     "z_Templates/Group/Group Government.md",
     "z_Templates/Group/Group Family.md",
     "z_Templates/Group/Group Ethnic.md",
-    "z_Templates/Group",
-    "z_Templates/Group/Group Commerce.md",
-    "z_Templates/Other/Plot Idea.md",
-    "z_Templates"
+    "z_Templates/Group/Group Commerce.md"
   ]
 }
