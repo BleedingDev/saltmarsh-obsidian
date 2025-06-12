@@ -4,45 +4,67 @@ This guide outlines the principles and procedures for maintaining this TTRPG vau
 
 ---
 
-### **Prime Directives for the AI Vault Assistant**
+## Folder Structure and Purpose
+
+This section details the purpose of each folder in the vault. Adhere to this structure strictly.
+
+### Top-Level Folders
+
+| Folder Name | Purpose |
+| --- | --- |
+| **`0. DM Screen`** | A Folder Note for a Kanban board of commonly used rules and notes. |
+| **`0. Scratch Notes`** | A temporary dumping ground for quick notes that will be moved or deleted later. |
+| **`1. The Party`** | Contains one note per player character, holding basic stats and info for quick reference. |
+| **`1. World Almanac`** | The encyclopedia for your world. Contains all lore, locations, and modules. |
+| **`2. Mechanics`** | The rulebook. Contains all game rules, monsters, items, spells, and NPCs. |
+| **`2. Session Journals`** | The story of the campaign. One note per session, documenting events as they happen. |
+| **`z_Assets`** | The dedicated folder for all attachments (images, PDFs, etc.). Set this as the attachment folder in Obsidian's settings. |
+| **`z_Templates`** | The dedicated folder for all templates used with the Templater plugin. |
+
+### `1. World Almanac` Sub-Folders
+
+| Folder Name | Purpose | Notes |
+| --- | --- | --- |
+| **`Modules`** | Stores pre-written adventures. | Create one sub-folder per module, and within that, one note per chapter. |
+| **`World`** | Your homebrew world's wiki. | Use nested notes and folders for continents, regions, cities, and specific locations like dungeons. |
+
+### `2. Mechanics` Sub-Folders
+
+This is the most granular section of the vault. The principle is **One Note per Thing**.
+
+| Folder Name                 | Purpose                                                                                  | Usage Notes & AI Instructions                                                                   |
+| --------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| **`Backgrounds`**           | One note per character background.                                                       | Low usage. Player-managed.                                                                      |
+| **`Bestiary`**              | One note per monster, organized into sub-folders by sourcebook (e.g., `Monster Manual`). | **High Usage.** Crucial for linking in session notes. Create sub-folders for each book.         |
+| **`Classes`**               | One note per player class.                                                               | Low usage. Players typically use physical sheets, books or D&D Beyond.                          |
+| **`Dangers`**               | One note per trap or hazard.                                                             | Useful for linking specific traps mentioned in adventure notes.                                 |
+| **`Deities`**               | One note per deity in your world.                                                        | Good for prep and linking when a god is mentioned.                                              |
+| **`Dictionary`**            | One note per complex word.                                                               | A personal tool for vocabulary building.                                                        |
+| **`Feats`**                 | One note per feat.                                                                       | Allows for linking feats from character sheets or NPC stat blocks.                              |
+| **`Guilds and Groups`**     | One note per faction or organization.                                                    | Documents key members, goals, and lore for in-world groups.                                     |
+| **`Items`**                 | One note per magic or significant item.                                                  | **High Usage.** Essential for tracking item properties and linking to loot in session journals. |
+| **`Languages`**             | One note per language.                                                                   | Low usage. Can cause linking conflicts with similarly named things. Use with care.              |
+| **`Non-Player Characters`** | One note per NPC.                                                                        | **High Usage.** Describes appearance, personality, and knowledge. Link to them constantly.      |
+| **`Random Tables`**         | One note per random table.                                                               | Can be replaced by AI-powered templates for dynamic generation.                                 |
+| **`Sound Board`**           | Notes containing lists of sounds for atmosphere.                                         | Low usage at the physical table.                                                                |
+| **`Spells`**                | One note per spell.                                                                      | **High Usage.** Constantly linked and referenced during gameplay.                               |
+
+---
+
+## Prime Directives for the AI Vault Assistant
 
 These are the rules the AI must follow when managing this Obsidian Vault.
 
-#### **DO:**
+#### DO:
+- **Place Notes with Precision:** Every new note must be created in the specific folder that matches its content type as defined above.
+- **Link, Don't Repeat:** Search before creating. If a note exists, link to it using `[[WikiLink Syntax]]`.
+- **Create Atomic Notes:** One note per monster, spell, NPC, or location.
+- **Use Session Journals for History:** Record all plot and party actions in `2. Session Journals`. World/Mechanics notes must remain static.
+- **Confirm and Report:** After completing a task, confirm what you did and where.
 
-*   **DO: Place Notes with Precision.**
-    *   Every new note must be created in the specific folder that matches its content type. Ask for clarification if the correct folder is ambiguous.
-    *   *Example:* A new spell note goes into `2. Mechanics/Spells/`.
-
-*   **DO: Link, Don't Repeat.**
-    *   The core principle is **One Idea, One Note**. Before creating a new note, search the vault to see if it already exists. If it exists, link to it using `[[WikiLink Syntax]]`.
-    *   *Example:* When noting a meeting with an NPC, link to their existing note: `"...met with [[Gellan Primewater]]..."`.
-
-*   **DO: Create Atomic Notes.**
-    *   One note should contain one monster, one spell, one NPC, or one location. This is non-negotiable.
-    *   *Example:* To add Goblins and Orcs, create two separate files: `Goblin.md` and `Orc.md` in the Bestiary.
-
-*   **DO: Use Session Journals for History.**
-    *   The `2. Session Journals` folder is the *only* place to record the plot and the party's actions. World and Mechanics notes should remain static descriptions.
-    *   *Example:* If the party destroys a house, note this in the journal. Do not change the original note for the house. `"...the party destroyed the [[Haunted House on the Hill]]..."`.
-
-*   **DO: Confirm and Report.**
-    *   After completing a task, always confirm what you have done and where you have done it.
-    *   *Example Response:* "I have created the note `2. Mechanics/Items/Helm of Brilliance.md` as you requested."
-
-#### **DON'T:**
-
-*   **DON'T: Create Files in the Root Directory.**
-    *   NEVER create a new note in the top-level folder of the vault (this guide is the one exception). Every piece of information has a home in one of the numbered subfolders.
-
-*   **DON'T: Create "List" Pages.**
-    *   NEVER create a note titled "List of Spells" or "Monsters in the Dreadwood". The folder structure and search functionality serve this purpose.
-
-*   **DON'T: Guess File Paths.**
-    *   NEVER invent a new folder structure. Adhere strictly to the existing folders. If a user asks to save something that doesn't fit, ask them where it should go.
-
-*   **DON'T: Overwrite Content Without Permission.**
-    *   NEVER use the `update` or `create` functions on an existing file without explicit instruction. Prefer to `append` or `patch` information to avoid data loss. Always ask before replacing content.
-
-*   **DON'T: Delete Without Confirmation.**
-    *   NEVER delete a file unless the user explicitly confirms the action. Always state the full path of the file you intend to delete before asking for confirmation.
+#### DON'T:
+- **Create Files in the Root Directory:** Everything has a home in a subfolder.
+- **Create "List" Pages:** The folder structure and search function serve this purpose.
+- **Guess File Paths:** Adhere strictly to the defined structure.
+- **Overwrite Content Without Permission:** Always prefer to `append` or `patch` information. Ask before replacing content.
+- **Delete Without Confirmation:** Always state the full file path and ask for explicit confirmation before deleting.
