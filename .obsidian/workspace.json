@@ -18,6 +18,60 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Brynja Tidebound",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Brynja Tidebound.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Brynja Tidebound\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":63,\"ch\":17},\"to\":{\"line\":63,\"ch\":17}},\"scroll\":57.24461762110392}"
+                },
+                {
+                  "title": "NPC - Růža (Hostinec U Proutěné kozy)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Růža (Hostinec U Proutěné kozy).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Růža (Hostinec U Proutěné kozy)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "BBEG - Tharizdun",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/BBEG - Tharizdun.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"BBEG - Tharizdun\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":209},\"to\":{\"line\":7,\"ch\":209}},\"scroll\":5.239366292953491}"
+                },
+                {
+                  "title": "Lokace - Saltmarsh (Město)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - Saltmarsh (Město)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.040798505147298}"
+                },
+                {
+                  "title": "Lokace - Driftnet Hollow (Zničená)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Pobřeží Keolandu/Lokace - Driftnet Hollow (Zničená).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - Driftnet Hollow (Zničená)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":98},\"to\":{\"line\":5,\"ch\":98}}}"
+                },
+                {
+                  "title": "NPC - Wellgar Brinehanded",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Wellgar Brinehanded.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Wellgar Brinehanded\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":43},\"to\":{\"line\":8,\"ch\":43}},\"scroll\":0}"
+                },
+                {
+                  "title": "Vault Maintenance Guide",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Vault Maintenance Guide.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Vault Maintenance Guide\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":40.742001546104525}"
+                },
+                {
+                  "title": "Brynja Tidebound",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Brynja Tidebound.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Brynja Tidebound\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.41709984863717053}"
+                },
+                {
+                  "title": "Vault Maintenance Guide",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Vault Maintenance Guide.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Vault Maintenance Guide\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Welcome",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
@@ -316,7 +370,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault Maintenance Guide.md",
+                "file": "2. Mechanics/Non-Player Characters/NPC - Maelen Croft.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -331,7 +385,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vault Maintenance Guide"
+              "title": "NPC - Maelen Croft"
             }
           }
         ]
@@ -645,46 +699,47 @@
       "templater-obsidian:Templater": false,
       "smart-connections:Open: Smart Chat": false,
       "smart-connections:Open: View Smart Connections": false,
-      "fantasy-content-generator:Fantasy Generators": false
+      "fantasy-content-generator:Fantasy Generators": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "0dcb0423aa258ae0",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Vault Maintenance Guide.md",
-    "z_Assets",
-    "2. Mechanics/Spells",
-    "2. Mechanics/Sound Board",
-    "2. Mechanics/Random Tables",
-    "2. Mechanics/Non-Player Characters",
-    "2. Mechanics/Languages",
-    "2. Mechanics/Items",
-    "2. Mechanics/Guilds and Groups",
-    "2. Mechanics/Feats",
-    "2. Mechanics/Dictionary",
-    "create a link.md",
-    "z_Templates/Dangers/Trap.md",
-    "z_Templates/Dangers/Poison.md",
-    "z_Templates/Dangers/Hazard.md",
-    "z_Templates/Dangers/Disease.md",
-    "z_Templates/Quote.md",
-    "z_Templates/Warning.md",
-    "z_Templates/Other/Concept.md",
-    "z_Templates/Events/Time Period.md",
-    "z_Templates/Events/Storyline.md",
-    "z_Templates/Events/Scene.md",
-    "z_Templates/Events/Quest.md",
-    "z_Templates/Events/Incident.md",
-    "z_Templates/Things/Named Vehicle.md",
-    "z_Templates/Things/Named Object.md",
-    "z_Templates/Things/Named Equipment.md",
-    "z_Templates/Group/Group Criminal.md",
-    "z_Templates/Group/Group Religious.md",
-    "z_Templates/Group/Group Other.md",
-    "z_Templates/Group/Group Military.md",
-    "z_Templates/Group/Group Government.md",
-    "z_Templates/Group/Group Family.md",
-    "z_Templates/Group/Group Ethnic.md",
-    "z_Templates/Group/Group Commerce.md"
+    "2. Mechanics/Non-Player Characters/NPC - Krag (Hrobník).md",
+    "2. Mechanics/Non-Player Characters/NPC - Mafera.md",
+    "2. Mechanics/Non-Player Characters/NPC - Keledek.md",
+    "2. Mechanics/Non-Player Characters/NPC - Finnigan (Zmizelý).md",
+    "1. The Party/Brynja Tidebound.md",
+    "2. Mechanics/Non-Player Characters/NPC - Růža (Hostinec U Proutěné kozy).md",
+    "2. Mechanics/Non-Player Characters/BBEG - Tharizdun.md",
+    "1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md",
+    "1. World Almanac/World/Kronika Saltmarshe/Plot Hook - Skerrin Patronuje Brynju.md",
+    "1. The Party/Vazby/Vazba - Noll a Brynja - Ztracený přítel.md",
+    "1. World Almanac/World/Pobřeží Keolandu/Lokace - Driftnet Hollow (Zničená).md",
+    "2. Mechanics/Non-Player Characters/NPC - Wellgar Brinehanded.md",
+    "1. The Party/Vazby/Vazba - Zig a Skjorn - Ochránce z lodi.md",
+    "1. The Party/Vazby/Vazba - Noll a Skjorn - Noc v cele.md",
+    "1. The Party/Vazby",
+    "1. World Almanac/World/Historie Postav/Událost - Zrada a zmizení Finnigana.md",
+    "1. World Almanac/World/Kronika Saltmarshe/Událost - Střet v přístavu (Saltmarsh).md",
+    "1. World Almanac/World/Kronika Saltmarshe/Událost - Brynjino anonymní varování.md",
+    "1. World Almanac/World/Kronika Saltmarshe",
+    "1. World Almanac/World/Historie Postav/Událost - Skjornovo zabití.md",
+    "1. World Almanac/World/Historie Postav",
+    "1. World Almanac/World/Ekonomika a Společnost/Koncept - Zigino přestrojení.md",
+    "1. World Almanac/World/Ekonomika a Společnost/Koncept - Nollův dluh Gellanovi.md",
+    "1. World Almanac/World/Ekonomika a Společnost",
+    "2. Mechanics/Items/Předmět - Pečetěná truhla z Vřetena.md",
+    "1. World Almanac/World/Mystéria a Legendy/Koncept - Hlas z Hlubin.md",
+    "1. World Almanac/World/Mystéria a Legendy",
+    "1. World Almanac/World/Saltmarsh/Lokace - Dwarven Anvil (Kovárna).md",
+    "1. World Almanac/World/Saltmarsh/Lokace - Věrní proviantmistři Iuzovi (Obchod).md",
+    "1. World Almanac/World/Okolí Saltmarshe/Lokace - Dreadwood (Les).md",
+    "1. World Almanac/World/Okolí Saltmarshe",
+    "1. World Almanac/World/Pobřeží Keolandu",
+    "1. World Almanac/World/Keoland/Lokace - Niole Dra (Město).md",
+    "1. World Almanac/World/Keoland",
+    "1. World Almanac/World/Saltmarsh",
+    "z_Assets"
   ]
 }
