@@ -21,6 +21,42 @@
                   "title": "Zig",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Zig.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Zig\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.7001318887838219}"
+                },
+                {
+                  "title": "Brynja Tidebound",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Brynja Tidebound.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Brynja Tidebound\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "NPC - Skerrin Wavechaser",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Skerrin Wavechaser.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Skerrin Wavechaser\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":219},\"to\":{\"line\":5,\"ch\":219}}}"
+                },
+                {
+                  "title": "Lokace - Starý Alchymistův dům (Saltmarsh)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Saltmarsh/Lokace - Starý Alchymistův dům (Saltmarsh).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - Starý Alchymistův dům (Saltmarsh)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":155},\"to\":{\"line\":19,\"ch\":155}},\"scroll\":11.242662080880384}"
+                },
+                {
+                  "title": "Deita - Procan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Deities/Deita - Procan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Deita - Procan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":206},\"to\":{\"line\":31,\"ch\":206}},\"scroll\":22.27472762817754}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Zig",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Zig.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Zig\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
@@ -116,10 +152,24 @@
               ]
             },
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2. Mechanics/Non-Player Characters/NPC - Sanbalet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NPC - Sanbalet"
             }
           }
         ]
@@ -458,13 +508,20 @@
   },
   "active": "08db9525d4abc14d",
   "lastOpenFiles": [
+    "2. Mechanics/Non-Player Characters/NPC - Mr. Dory.md",
     "1. The Party/Zig.md",
+    "1. The Party/Brynja Tidebound.md",
+    "2. Mechanics/Non-Player Characters/NPC - Skerrin Wavechaser.md",
+    "1. World Almanac/World/Saltmarsh/Lokace - Starý Alchymistův dům (Saltmarsh).md",
+    "1. World Almanac/World/Saltmarsh/Lokace - Winston's Store (Obchod).md",
+    "2. Mechanics/Deities/Deita - Procan.md",
+    "1. World Almanac/World/Saltmarsh/Lokace - Praskající vlasec (Hospoda).md",
+    "2. Mechanics/Non-Player Characters/NPC - Ferrin Kastillar.md",
     "2. Mechanics/Non-Player Characters/NPC - Maelen Croft.md",
     "2. Mechanics/Non-Player Characters/NPC - Sanbalet.md",
     "2. Mechanics/Non-Player Characters/NPC - Mafera.md",
     "2. Mechanics/Non-Player Characters/NPC - Manistrad Copperlocks.md",
     "2. Mechanics/Non-Player Characters/NPC - Růža (Hostinec U Proutěné kozy).md",
-    "2. Mechanics/Non-Player Characters/NPC - Skerrin Wavechaser.md",
     "2. Mechanics/Non-Player Characters/NPC - Wellgar Brinehanded.md",
     "Excalidraw/Drawing 2025-06-13 11.37.34.excalidraw.md",
     "NPC - Mr. Dory.md",
@@ -478,13 +535,6 @@
     "Excalidraw",
     "2. Mechanics/Non-Player Characters/NPC - Lankus Kurrid.md",
     "1. The Party/Skjorn Pupíček Kostitel.md",
-    "2. Mechanics/Non-Player Characters/NPC - Jasker (Mafeřin syn).md",
-    "2. Mechanics/Non-Player Characters/NPC - Kapitánka Xendros.md",
-    "2. Mechanics/Non-Player Characters/NPC - Kreb Shenker.md",
-    "2. Mechanics/Non-Player Characters/NPC - Krag (Hrobník).md",
-    "2. Mechanics/Non-Player Characters/NPC - Keledek.md",
-    "1. The Party/Brynja Tidebound.md",
-    "1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md",
     "1. The Party/Vazby",
     "1. World Almanac/World/Kronika Saltmarshe",
     "1. World Almanac/World/Historie Postav",
