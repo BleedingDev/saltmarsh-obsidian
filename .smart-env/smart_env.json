@@ -97,7 +97,8 @@
     "muted": {
       "done_initial_scan": true,
       "done_import": true,
-      "embedding_progress": true
+      "embedding_progress": true,
+      "missing_entity": true
     }
   },
   "version": "",
@@ -120,5 +121,6 @@
         "before": "{{FILE_TREE}}"
       }
     }
-  }
+  },
+  "smart_completions": {}
 }
