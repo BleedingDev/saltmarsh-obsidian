@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Lokace - Saltmarsh (Město)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - Saltmarsh (Město)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":140},\"to\":{\"line\":5,\"ch\":140}},\"scroll\":0}"
+                },
+                {
                   "title": "0. Nedávno se stalo",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/0. Nedávno se stalo.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"0. Nedávno se stalo\"}",
@@ -356,24 +362,12 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "z_Assets/Saltmarsh City.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Lokace - Saltmarsh (Město)"
+              "icon": "lucide-file-text",
+              "title": "Saltmarsh City"
             }
           }
         ]
@@ -784,9 +778,10 @@
   },
   "active": "7d65dae017991c08",
   "lastOpenFiles": [
+    "1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md",
+    "z_Assets/Saltmarsh City.pdf",
     "z_Assets/image-2.png",
     "z_Assets/image.png",
-    "1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md",
     "2. Session Journals/Preparations - Scenes/0. Nedávno se stalo.md",
     "1. World Almanac/World/Kronika Saltmarshe/Událost - Střet v přístavu (Saltmarsh).md",
     "1. World Almanac/World/Saltmarsh/Lokace - Chrám Procana (Saltmarsh).md",
@@ -820,7 +815,6 @@
     "1. World Almanac/World/Ekonomika a Společnost",
     "1. World Almanac/World/Mystéria a Legendy",
     "1. World Almanac/World/Okolí Saltmarshe",
-    "1. World Almanac/World/Pobřeží Keolandu",
-    "1. World Almanac/World/Keoland"
+    "1. World Almanac/World/Pobřeží Keolandu"
   ]
 }
