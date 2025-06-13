@@ -1,7 +1,7 @@
 **Tagy:** #lokace #město #přístav #Keoland_jih
 # Aktuální mapa
 
-![[image.png]]
+![[saltmarsh-legends.png]]
 ## Popis
 Saltmarsh je rybářské město střední velikosti uhnízděné na jižním pobřeží Keolandu, kde se les Dunefellow setkává s Azurovým mořem. Po generace bylo relativně izolovaným a nezávislým přístavem, známým svým rybolovem a bohužel i historií spojenou s pašeráctvím a pirátstvím. V současnosti se Saltmarsh nachází na křižovatce – král Keolandu upřel svůj zrak na jih a snaží se region pevněji integrovat do království, což vede k napětí mezi místními Tradicionalisty a nově příchozími či loajálními silami.
 
@@ -48,4 +48,4 @@ Saltmarsh je domovem pro přibližně 5000 lidí, převážně lidí, ale s rost
 *   Mnoho NPC má své vlastní agendy a tajemství.
 *   Ideální pro "proaktivní roleplaying", kde hráčské cíle mohou výrazně ovlivnit osud města.
 # Mapa z minulosti (~3 roky zpět)
-![[image-2.png]]
+![[saltmarsh-old.png]]

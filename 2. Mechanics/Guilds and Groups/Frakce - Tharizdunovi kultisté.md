@@ -2,7 +2,7 @@
 
 **Tagy:** #frakce #kult #BBEG_frakce #kosmická_hrůza #Saltmarsh_hrozba_skrytá
 
-![[image-1.png]]
+![[scarlet-brotherhood.png]]
 ## Popis a Ideologie
 Tharizdunovi kultisté jsou tajní uctívači [[BBEG - Tharizdun]] (také známého jako Chained God, The Elder Elemental Eye). Tharizdun je božstvo entropie, šílenství, temnoty a konečného zničení veškeré existence. Jeho kultisté věří, že šířením chaosu, utrpení a zkázy posilují svého pána a připravují svět na jeho eventuální osvobození a následnou apokalypsu.
 

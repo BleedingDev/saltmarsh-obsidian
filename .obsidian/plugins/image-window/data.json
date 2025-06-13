@@ -1,0 +1,19 @@
+{
+  "saveWindowLocations": true,
+  "useCustomWindowName": false,
+  "customWindowName": "Second Window",
+  "windows": {
+    "Second Window": {
+      "hosts": {
+        "Sathanovo": {
+          "x": -1292,
+          "y": -1451,
+          "width": 5142,
+          "height": 1462,
+          "fullscreen": false,
+          "maximized": true
+        }
+      }
+    }
+  }
+}
