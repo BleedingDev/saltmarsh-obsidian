@@ -23,4 +23,4 @@
 *   Jsou magické předměty, které prodává, autentické? Nebo jsou některé z nich prokleté, falešné, či nebezpečné?
 *   Xendros by mohla být zdrojem very specifických a nebezpečných úkolů pro postavy výměnou za její zboží nebo služby.
 *   Obchod by mohl být sledován [[Frakce - Loajalisté (Saltmarsh)]] nebo chrámovými autoritami kvůli podezření z obchodování se zakázanými předměty nebo napojení na zlé síly.
-*   [[Frakce - Šarlatové Bratrstvo]] nebo [[Frakce - Tharizdunovi kultisté]] by mohli mít zájem o některé zboží nebo informace, které Xendros nabízí, nebo by ji mohli vnímat jako konkurenci či potenciálního spojence/nepřítele.
+*   [[Frakce - Scarlet Brotherhood]] nebo [[Frakce - Tharizdunovi kultisté]] by mohli mít zájem o některé zboží nebo informace, které Xendros nabízí, nebo by ji mohli vnímat jako konkurenci či potenciálního spojence/nepřítele.

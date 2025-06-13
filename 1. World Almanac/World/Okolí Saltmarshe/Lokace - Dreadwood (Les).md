@@ -21,4 +21,4 @@ Dreadwood (Děsivý hvozd) je rozlehlý a často neprostupný les, který se tá
 *   Jaká přesně byla osada, kde Skjorn vyrůstal? Existuje ještě? Jsou tam lidé, kteří by ho poznali nebo na něj měli vazby (pozitivní či negativní)?
 *   Dreadwood by mohl být místem, kam utekl někdo, koho postavy hledají, nebo kde se skrývá nějaký důležitý artefakt či informace.
 *   Je les nějak magicky ovlivněn? Má nějaké specifické anomálie nebo genius loci?
-*   Mohly by se zde nacházet tajné základny [[Frakce - Šarlatové Bratrstvo]] nebo [[Frakce - Tharizdunovi kultisté]]?
+*   Mohly by se zde nacházet tajné základny [[Frakce - Scarlet Brotherhood]] nebo [[Frakce - Tharizdunovi kultisté]]?

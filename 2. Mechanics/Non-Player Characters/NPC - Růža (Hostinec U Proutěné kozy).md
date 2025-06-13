@@ -6,9 +6,10 @@
 Růža je mladá žena pracující jako servírka v hostinci [[Lokace - U Proutěné kozy (Hospoda)]] v [[Lokace - Saltmarsh (Město)]]. Zdá se být milá a možná trochu ostýchavá.
 
 ## Vztahy
-*   Je objektem zájmu [[Skjorn Pupíček Kostitel]], který si všiml jejích úsměvů a má za krátkodobý cíl ji pozvat na tanec.
-*   Pracuje pro [[NPC - Lankus Kurrid]], majitele hostince U Proutěné kozy.
-*   Pravděpodobně zná mnoho štamgastů, včetně členů městské stráže a trpasličích horníků, kteří hostinec navštěvují.
+*  Je objektem zájmu [[Skjorn Pupíček Kostitel]], který si všiml jejích úsměvů a má za krátkodobý cíl ji pozvat na tanec.
+*  Pracuje pro [[NPC - Lankus Kurrid]], majitele hostince U Proutěné kozy.
+*  Pravděpodobně zná mnoho štamgastů, včetně členů městské stráže a trpasličích horníků, kteří hostinec navštěvují.
+* Je to dcera [[NPC - Eliander Fireborn]], který ji chce chránit a nepouštět k ní žádné hrubiány a barbary (jako je [[Skjorn Pupíček Kostitel]]).
 
 ## DM Poznámky / Háčky
 *   Má Růža skutečný zájem o Skjorna, nebo jsou její úsměvy jen profesionální zdvořilostí či soucitem?

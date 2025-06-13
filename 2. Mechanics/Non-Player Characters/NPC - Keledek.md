@@ -23,7 +23,7 @@ Keledek, často zvaný Keledek Nemluvný (Keledek the Unspoken), je tajemný a s
 
 ## DM Poznámky / Háčky
 *   Jaké jsou Keledekovy skutečné cíle a motivace? Je jen excentrickým učencem, nebo má skrytou agendu?
-*   Mohl by mít informace o [[Frakce - Šarlatové Bratrstvo]] nebo [[Frakce - Tharizdunovi kultisté]], aniž by to dával najevo?
+*   Mohl by mít informace o [[Frakce - Scarlet Brotherhood]] nebo [[Frakce - Tharizdunovi kultisté]], aniž by to dával najevo?
 *   Jeho věž by mohla být plná pastí, strážných konstruktů nebo magických obran.
 *   Mohl by požadovat od PC splnění nebezpečného úkolu (např. získání vzácné komponenty z nebezpečného místa) výměnou za své služby.
 *   Jeho výzkum by ho mohl nechtěně přivést do konfliktu s mocnými entitami nebo frakcemi.

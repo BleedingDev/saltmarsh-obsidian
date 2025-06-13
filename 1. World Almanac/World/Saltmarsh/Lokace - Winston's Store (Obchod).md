@@ -17,8 +17,8 @@ Winston's Store je obchod se smíšeným zbožím v [[Lokace - Saltmarsh (Město
 ## Význam pro Postavy
 *   Hlavní místo pro nákup běžných zásob a vybavení pro jejich dobrodružství.
 *   [[NPC - Winston (Obchodník).md]] by mohl být zdrojem místních zpráv, drbů nebo i menších úkolů (např. doručení zboží, nalezení ztracené dodávky).
-*   [[Postava - Zig.md]] by zde mohla nakupovat některé základní materiály nebo nástroje, než si najde místo v kovárně.
-*   [[Postava - Noll.md]] nebo [[Postava - Skjorn Pupíček Kostitel.md]] by se zde mohli pokusit prodat nějaké nalezené předměty (nebo se je pokusit ukrást, pokud by byli zoufalí).
+*   [[Zig]] by zde mohla nakupovat některé základní materiály nebo nástroje, než si najde místo v kovárně.
+*   [[Noll]] nebo [[Skjorn Pupíček Kostitel]] by se zde mohli pokusit prodat nějaké nalezené předměty (nebo se je pokusit ukrást, pokud by byli zoufalí).
 
 ## DM Poznámky / Háčky
 *   Je Winston skutečně tak poctivý, jak se říká, nebo má také svá malá tajemství či obchodní triky?

@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "z_Assets",
-  "spellcheck": false
+  "spellcheck": false,
+  "alwaysUpdateLinks": true
 }

@@ -26,7 +26,7 @@ Loajalisté jsou politickou frakcí v [[Lokace - Saltmarsh (Město)]], která po
 
 ## Vztahy
 *   **Hlavní oponenti:** [[Frakce - Tradicionalisté (Saltmarsh)]] a [[NPC - Gellan Primewater]] se svou sítí.
-*   **Potenciální manipulace:** [[Frakce - Šarlatové Bratrstvo]] by se je mohlo snažit využít k vyvolání nepokojů nebo k oslabení místních struktur, aby pak mohli nabídnout vlastní "řešení".
+*   **Potenciální manipulace:** [[Frakce - Scarlet Brotherhood]] by se je mohlo snažit využít k vyvolání nepokojů nebo k oslabení místních struktur, aby pak mohli nabídnout vlastní "řešení".
 *   **Potenciální spojenci:** [[NPC - Anders Solmor]] může být vnímán jako potenciální spojenec díky svému odporu k pašeráctví, i když jeho idealismus nemusí vždy ladit s jejich pragmatismem.
 
 ## DM Poznámky / Háčky

@@ -1,0 +1,1 @@
+[[Scarlet Brotherhood - Zpívající vřeteno]] ví o tom, že [[Brynja Tidebound]] přežila jako jediná, ale neznají detaily. Budou tomu chtít přijít na kloub.

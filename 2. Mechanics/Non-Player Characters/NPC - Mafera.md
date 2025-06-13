@@ -22,7 +22,7 @@ Mafera je zručná kovářka Flannského původu a majitelka kovárny [[Lokace -
 *   Jako Flannka může mít silné vazby na starší tradice regionu.
 
 ## DM Poznámky / Háčky
-*   Jak by Mafera reagovala na žádost [[Zig]] o učení, zvláště pokud by Zig byla v přestrojení? A jak, kdyby bylo Zigino tajemství ([[Koncept - Zigino přestrojení]]) odhaleno?
+*   Jak by Mafera reagovala na žádost [[Zig]] o učení, zvláště pokud by Zig byla v přestrojení? A jak, kdyby bylo Zigino tajemství ([[Koncept - Zigovo přestrojení]]) odhaleno?
 *   Má Mafera nějaké vlastní ambice, problémy nebo tajemství? (Např. konkurence, nedostatek kvalitních materiálů, snaha předat řemeslo synovi).
 *   Mohla by potřebovat pomoc PC s nějakým úkolem spojeným s jejím řemeslem (získání vzácného kovu, ochrana dílny, vypořádání se s nepoctivým dodavatelem).
 *   Její znalosti metalurgie by mohly být užitečné při identifikaci nebo práci s neobvyklými kovy nebo artefakty.

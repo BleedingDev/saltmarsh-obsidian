@@ -18,7 +18,7 @@ Finnigan (příjmení neznámé, nebo nebylo důležité) byl zkušený pašerá
 ## Vztahy
 *   Přítel/kontakt pro [[Noll]] a [[Brynja Tidebound]].
 *   Pravděpodobně měl mnoho dalších kontaktů a nepřátel v podsvětí Saltmarshe.
-*   Oběť zrady ze strany neznámé osoby/frakce (možná [[NPC - Gellan Primewater]] nebo [[Frakce - Šarlatové Bratrstvo]]?).
+*   Oběť zrady ze strany neznámé osoby/frakce (možná [[NPC - Gellan Primewater]] nebo [[Frakce - Scarlet Brotherhood]]?).
 
 ## DM Poznámky / Háčky
 *   Co se s Finniganem skutečně stalo? Je možné ho najít živého?

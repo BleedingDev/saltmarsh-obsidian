@@ -21,7 +21,7 @@ Alternativně mohlo jít o starou legendu nebo příběh, který postavy zaslech
     *   Něco zcela unikátního a nepopsatelného, možná z jiné reality.
 
 ## Napojení na Kampaň
-*   [[Postava - Brynja Tidebound.md]] a její spojení s [[Koncept - Hlas z Hlubin.md]] by mohlo být nějakým způsobem napojeno na jednu z těchto entit nebo na samotný konflikt.
+*   [[Brynja Tidebound]] a její spojení s [[Koncept - Hlas z Hlubin.md]] by mohlo být nějakým způsobem napojeno na jednu z těchto entit nebo na samotný konflikt.
 *   [[Frakce - Tharizdunovi kultisté.md]] by se mohli snažit jednu z těchto entit ovládnout, uctívat, nebo využít jejich konflikt pro své cíle.
 *   Pátrání po významu této vize/proroctví může být dlouhodobým cílem pro některou z postav nebo pro celou skupinu.
 *   Může to být klíč k pochopení většího kosmického dění, které ovlivňuje region Saltmarshe.

@@ -23,7 +23,7 @@ Sanbalet je chytrý a schopný mág, který vede pašeráckou operaci sídlící
 *   Vyhnout se dopadení městskou stráží.
 
 ## DM Poznámky / Háčky
-*   Je Sanbalet nezávislým operativcem, nebo pracuje pro někoho mocnějšího (např. [[NPC - Gellan Primewater.md]] jako subdodavatel, nebo dokonce pro [[Frakce - Šarlatové Bratrstvo]] jako nevědomý pěšák)?
+*   Je Sanbalet nezávislým operativcem, nebo pracuje pro někoho mocnějšího (např. [[NPC - Gellan Primewater.md]] jako subdodavatel, nebo dokonce pro [[Frakce - Scarlet Brotherhood]] jako nevědomý pěšák)?
 *   Jaké jsou jeho přesné magické schopnosti a taktiky v boji?
 *   Mohl by mít v domě nějaké zajímavé dokumenty, mapy nebo předměty, které by odhalily více o jeho operacích nebo o historii domu?
 *   Pokud bude zajat, jaké informace by byl ochoten prozradit výměnou za svobodu nebo mírnější trest?

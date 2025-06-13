@@ -11,7 +11,7 @@ Před přibližně dvěma týdny (před začátkem kampaně) obdržela [[Brynja 
 
 ## Možní Odesílatelé a Motivace
 *   **[[NPC - Skerrin Wavechaser]]**:
-    *   **Motivace:** Mohl chtít ochránit Brynju jako potenciálně cenné "aktivum" pro [[Frakce - Šarlatové Bratrstvo]] nebo pro své vlastní plány spojené s [[Koncept - Hlas z Hlubin]]. Mohl to být také test její poslušnosti nebo způsob, jak navázat první nepřímý kontakt (viz [[Plot Hook - Skerrin Patronuje Brynju]]).
+    *   **Motivace:** Mohl chtít ochránit Brynju jako potenciálně cenné "aktivum" pro [[Frakce - Scarlet Brotherhood]] nebo pro své vlastní plány spojené s [[Koncept - Hlas z Hlubin]]. Mohl to být také test její poslušnosti nebo způsob, jak navázat první nepřímý kontakt (viz [[Plot Hook - Skerrin Patronuje Brynju]]).
 *   **[[NPC - Wellgar Brinehanded]]**:
     *   **Motivace:** Mohl mít tušení nebo vizi blížícího se nebezpečí díky svému spojení s [[Deita - Procan]] nebo vlastní citlivosti na "šeptání z hlubin". Možná nemohl varovat Brynju přímo, aby neprozradil své vlastní tajemství nebo ji nevystavil dalšímu riziku.
 *   **Někdo z Brynjiny pašerácké minulosti:**

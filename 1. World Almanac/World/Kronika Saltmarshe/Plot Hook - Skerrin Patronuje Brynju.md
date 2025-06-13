@@ -3,7 +3,7 @@
 **Tagy:** #plot_hook #aktivní #Saltmarsh #Skerrin_Wavechaser #Brynja_Tidebound #Šarlatové_Bratrstvo #manipulace
 
 ## Popis Plot Hooku
-Tento plot hook popisuje situaci, kdy [[NPC - Skerrin Wavechaser]], klíčový agent [[Frakce - Šarlatové Bratrstvo]] (a potenciálně [[Frakce - Tharizdunovi kultisté]]), začíná anonymně kontaktovat a "patronovat" [[Brynja Tidebound]]. Jeho cílem je manipulovat ji, využít její schopnosti a její spojení s [[Koncept - Hlas z Hlubin]] pro své vlastní účely a cíle své frakce.
+Tento plot hook popisuje situaci, kdy [[NPC - Skerrin Wavechaser]], klíčový agent [[Frakce - Scarlet Brotherhood]] (a potenciálně [[Frakce - Tharizdunovi kultisté]]), začíná anonymně kontaktovat a "patronovat" [[Brynja Tidebound]]. Jeho cílem je manipulovat ji, využít její schopnosti a její spojení s [[Koncept - Hlas z Hlubin]] pro své vlastní účely a cíle své frakce.
 
 ## Metody Skerrinovy Manipulace
 *   **Anonymní Komunikace:** Zpočátku bude Skerrin Brynju kontaktovat výhradně nepřímo – skrze anonymní vzkazy, zanechané předměty nebo informace předané přes třetí, nic netušící stranu.
@@ -13,7 +13,7 @@ Tento plot hook popisuje situaci, kdy [[NPC - Skerrin Wavechaser]], klíčový a
 *   **Postupné Odhalování (kontrolované):** Pokud se rozhodne, může jí postupně odhalovat více o sobě (stále však zkresleně) nebo o organizaci, pro kterou pracuje, aby ji více připoutal.
 
 ## Skerrinovy Motivy (Možné)
-*   Využít Brynjiny námořnické, bojové a podsvětní dovednosti pro operace [[Frakce - Šarlatové Bratrstvo]].
+*   Využít Brynjiny námořnické, bojové a podsvětní dovednosti pro operace [[Frakce - Scarlet Brotherhood]].
 *   Zjistit více o [[Koncept - Hlas z Hlubin]] a potenciálně toto spojení využít nebo ovládnout.
 *   Pokud je napojen na [[Frakce - Tharizdunovi kultisté]], může v Brynje vidět klíčovou osobu pro nějaký rituál, oběť, nebo nástroj k šíření vlivu [[BBEG - Tharizdun]].
 *   Oslabit její vůli a učinit ji plně ovladatelnou.

@@ -1,4 +1,4 @@
-# Koncept - Zigino přestrojení
+# Koncept - Zigovo přestrojení
 
 **Tagy:** #koncept #identita #přestrojení #Zig_tajemství #gender_role
 
@@ -11,13 +11,12 @@ Tento koncept popisuje skutečnost, že [[Zig]] se vydává za chlapce, aby zvý
 *   **Snaha o soběstačnost:** Přestrojení jí umožňuje soustředit se na své řemeslo a snahu o nezávislost bez nutnosti čelit dalším společenským překážkám.
 
 ## Aspekty Přestrojení
-*   Pravděpodobně používá mužské jméno (Zig).
 *   Snaží se upravovat svůj vzhled a chování, aby působila jako chlapec/mladý muž.
 *   Musí být neustále ostražitá, aby její tajemství nebylo odhaleno.
 
 ## Důsledky a Rizika
 *   **Odhalení:** Pokud by její pravá identita vyšla najevo, bojí se, že by ztratila práci, respekt a šanci dělat to, co miluje. Reakce okolí by mohla být negativní, posměšná nebo dokonce nepřátelská.
-*   **Osobní vztahy:** Komplikuje navazování bližších osobních vztahů, protože musí udržovat fasádu. Vztah s [[Skjorn Pupíček Kostitel]], který ji zná z lodi jako "Ziga", by mohl být zvláště zkomplikován odhalením.
+*   **Osobní vztahy:** Komplikuje navazování bližších osobních vztahů, protože musí udržovat fasádu. Vztah s [[Skjorn Pupíček Kostitel]], který ji zná z lodi jako Ziga, by mohl být zvláště zkomplikován odhalením.
 *   **Fyzické aspekty:** Některé situace (zranění, potřeba převléknout se, koupání) mohou představovat riziko odhalení.
 *   **Právní/Cechovní důsledky:** Pokud by existovala přísná cechovní pravidla nebo společenské normy, odhalení by mohlo mít i formální následky.
 

@@ -13,7 +13,7 @@ Nové doly na stříbro (a potenciálně další kovy) se nacházejí ve skalác
 ## Význam pro Postavy a Město
 *   Zdroj potenciální prosperity pro Saltmarsh, ale také zdroj napětí mezi [[Frakce - Loajalisté (Saltmarsh)]] a [[Frakce - Tradicionalisté (Saltmarsh)]], kteří se obávají přílišného vlivu koruny a odklonu od tradičního rybolovu.
 *   [[Zig]] sem přišla částečně kvůli zvěstem o nových dolech a potenciální potřebě kovářů nebo kvalitních kovů.
-*   Místo může být cílem sabotáže ze strany těch, kdo chtějí poškodit zájmy koruny (např. [[Frakce - Šarlatové Bratrstvo]]).
+*   Místo může být cílem sabotáže ze strany těch, kdo chtějí poškodit zájmy koruny (např. [[Frakce - Scarlet Brotherhood]]).
 
 ## Možné Události a Háčky
 *   **Objevy v dolech:** Horníci by mohli narazit na staré, zapomenuté tunely, jeskyně, podzemní jezera, nebezpečná monstra (např. tvory z Underdarku), ložiska neobvyklých nebo magických minerálů, nebo dokonce na starověké ruiny či hrobky.

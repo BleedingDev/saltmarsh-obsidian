@@ -17,9 +17,9 @@ Tento potenciální plot hook rozvíjí minulost [[Zig]] a její motivaci pro od
 *   **Vydírání:** Pokud by někdo v Saltmarshi odhalil její tajemství, mohl by ji začít vydírat.
 *   **Potřeba peněz/spojenců:** Mohla by zoufale potřebovat peníze na splacení dluhu nebo na "zmizení" ukradeného předmětu, což by ji mohlo vést k přijímání riskantních úkolů. Mohla by hledat spojence mezi PC.
 *   **Konfrontace s minulostí:** Nakonec by mohla být nucena čelit své minulosti, ať už vyjednáváním, bojem, nebo útěkem.
-*   **Ukradený předmět:** Pokud něco ukradla, co to bylo? Je to mocné? Nebezpečné? Chtějí to i jiné frakce (např. [[Frakce - Šarlatové Bratrstvo]], [[NPC - Keledek]])?
+*   **Ukradený předmět:** Pokud něco ukradla, co to bylo? Je to mocné? Nebezpečné? Chtějí to i jiné frakce (např. [[Frakce - Scarlet Brotherhood]], [[NPC - Keledek]])?
 
 ## DM Poznámky / Háčky
 *   Tento hook přidává Zig další vrstvu a motivaci nad rámec "chci být dobrou kovářkou".
 *   Může být spuštěn náhodným setkáním s někým z Niole Dra, dopisem, nebo tím, že si PC všimnou jejího neobvykle paranoidního chování.
-*   Její přestrojení ([[Koncept - Zigino přestrojení]]) jí zatím pomáhá se skrývat, ale odhalení pohlaví by mohlo zároveň vést k odhalení této části její minulosti.
+*   Její přestrojení ([[Koncept - Zigovo přestrojení]]) jí zatím pomáhá se skrývat, ale odhalení pohlaví by mohlo zároveň vést k odhalení této části její minulosti.

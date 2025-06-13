@@ -24,5 +24,5 @@ Eda Oweland je starší, vlivná a často přísně se tvářící žena, která
 ## DM Poznámky / Háčky
 *   Mohla by být ochotna tiše tolerovat některé formy pašeráctví, pokud to prospívá místní ekonomice a neohrožuje přímo město.
 *   Její tvrdohlavost a odpor ke změnám by mohly Saltmarsh někdy i poškodit, pokud by bránila nezbytným reformám nebo spolupráci.
-*   [[Frakce - Šarlatové Bratrstvo]] by se ji mohlo snažit zdiskreditovat nebo využít její odpor vůči koruně pro své vlastní cíle.
+*   [[Frakce - Scarlet Brotherhood]] by se ji mohlo snažit zdiskreditovat nebo využít její odpor vůči koruně pro své vlastní cíle.
 *   Má nějaké vlastní tajemství nebo slabiny, které by její oponenti mohli využít?

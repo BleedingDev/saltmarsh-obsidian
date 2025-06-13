@@ -24,6 +24,6 @@ Eliander Fireborn je vyznamenaný válečný veterán a současný kapitán měs
 ## DM Poznámky / Háčky
 *   Jeho vojenská minulost by mohla skrývat staré nepřátele nebo nevyřízené účty.
 *   Může být někdy až příliš rigidní a neochotný ke kompromisům, což může vést ke konfliktům s místními obyvateli.
-*   [[Frakce - Šarlatové Bratrstvo.md]] ho pravděpodobně vnímá jako významnou překážku a mohlo by se ho snažit zdiskreditovat, odstranit, nebo obejít.
+*   [[Frakce - Scarlet Brotherhood]] ho pravděpodobně vnímá jako významnou překážku a mohlo by se ho snažit zdiskreditovat, odstranit, nebo obejít.
 *   Mohl by mít informace o širších vojenských a politických plánech Keolandu pro jižní pobřeží.
 *   Jak by reagoval na důkazy o korupci v řadách svých vlastních strážných nebo jiných královských úředníků?

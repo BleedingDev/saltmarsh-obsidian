@@ -58,5 +58,5 @@ Zabil jsem člověka ([[Událost - Skjornovo zabití]]). Ne férově v bitvě ne
 
 ## DM Poznámky / Háčky
 *   Jeho tajemství ([[Událost - Skjornovo zabití]]) by ho mohlo dostihnout – svědek, příbuzný oběti, nebo by mohl být vydírán.
-*   Jeho hledání "něčeho, čemu věřit" ho může přivést ke kontaktu s různými frakcemi, včetně [[Frakce - Šarlatové Bratrstvo]] nebo [[Frakce - Tharizdunovi kultisté]], kteří by mohli zneužít jeho touhy po smyslu.
+*   Jeho hledání "něčeho, čemu věřit" ho může přivést ke kontaktu s různými frakcemi, včetně [[Frakce - Scarlet Brotherhood]] nebo [[Frakce - Tharizdunovi kultisté]], kteří by mohli zneužít jeho touhy po smyslu.
 *   Vztah s [[NPC - Růža (Hostinec U Proutěné kozy)]] může být komplikovanější, než se zdá (Růža může mít vlastní problémy/tajemství).

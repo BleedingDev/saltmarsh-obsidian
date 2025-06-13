@@ -19,6 +19,6 @@ Tato hlubší vazba mezi [[Noll]] a [[Brynja Tidebound]] je založena na společ
 
 ## DM Poznámky / Háčky
 *   Jak aktivně budou spolupracovat na odhalení pravdy o Finniganovi? Mají stejné teorie o tom, kdo za tím stojí?
-*   Mohlo by se jejich podezření zaměřit na [[NPC - Gellan Primewater]] nebo dokonce na [[Frakce - Šarlatové Bratrstvo]]?
+*   Mohlo by se jejich podezření zaměřit na [[NPC - Gellan Primewater]] nebo dokonce na [[Frakce - Scarlet Brotherhood]]?
 *   Jak by odhalení pravdy ovlivnilo jejich vztah a jejich postavení v Saltmarshi?
 *   Více detailů o samotné události je v poznámce [[Událost - Zrada a zmizení Finnigana]].

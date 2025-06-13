@@ -26,7 +26,7 @@ Tato událost popisuje klíčový moment z minulosti [[Noll]] a [[Brynja Tidebou
 ## Možní Zrádci / Strůjci
 *   **[[NPC - Gellan Primewater]]**: Mohl chtít odstranit Finnigana jako konkurenci nebo získat náklad pro sebe.
 *   **Konkurenční pašerácká skupina.**
-*   **Agenti [[Frakce - Šarlatové Bratrstvo]]**: Mohli testovat místní podsvětí, eliminovat nezávislé operativce nebo se snažit získat specifický náklad.
+*   **Agenti [[Frakce - Scarlet Brotherhood]]**: Mohli testovat místní podsvětí, eliminovat nezávislé operativce nebo se snažit získat specifický náklad.
 *   **Zkorumpovaní členové městské stráže** jednající na něčí příkaz.
 
 ## Význam pro Kampaň

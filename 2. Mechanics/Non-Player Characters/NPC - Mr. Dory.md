@@ -3,7 +3,7 @@
 **Tagy:** #npc #člověk #obchodník_ryby #Saltmarsh_region_vliv #Šarlatové_Bratrstvo_vůdce? #The_Styes_antagonista
 
 ## Popis
-Mr. Dory je (nebo byl) zdánlivě legitimní obchodník s rybami a vlivná postava v pobřežním regionu, pravděpodobně operující z většího města nebo zkažené přístavní čtvrti jako jsou [[Lokace - The Styes (Čtvrť)]] (bude vytvořena později). Pod touto fasádou se však skrývá vysoce postavený člen [[Frakce - Šarlatové Bratrstvo.md]], možná dokonce jejich regionální vůdce pro jižní pobřeží Keolandu. Je také klíčovým antagonistou v dobrodružství [[Dobrodružství - The Styes.md]].
+Mr. Dory je (nebo byl) zdánlivě legitimní obchodník s rybami a vlivná postava v pobřežním regionu, pravděpodobně operující z většího města nebo zkažené přístavní čtvrti jako jsou [[Lokace - The Styes (Čtvrť)]] (bude vytvořena později). Pod touto fasádou se však skrývá vysoce postavený člen [[Frakce - Scarlet Brotherhood]], možná dokonce jejich regionální vůdce pro jižní pobřeží Keolandu. Je také klíčovým antagonistou v dobrodružství [[Dobrodružství - The Styes.md]].
 
 ## Skutečná Role a Cíle (dle The Styes a materiálů)
 *   **Vůdce Kultu a Agent ŠB:** Ovládá [[Lokace - The Styes (Čtvrť)]] a jeho zkorumpované struktury. Využívá své postavení k operacím Šarlatového Bratrstva.
@@ -21,5 +21,5 @@ Mr. Dory je (nebo byl) zdánlivě legitimní obchodník s rybami a vlivná posta
 *   Jak se jeho vliv z [[Lokace - The Styes (Čtvrť)]] může rozšířit až do Saltmarshe? Mohl by být zdrojem některých problémů, se kterými se PC setkají?
 *   Jeho operace by mohly být jedním z hlavních cílů pro PC v pozdější fázi kampaně.
 *   Mohl by mít zájem o [[Brynja Tidebound]] a její spojení s [[Koncept - Hlas z Hlubin.md]], pokud se o ní dozví.
-*   Jaký je jeho vztah k "tradičnějším" operacím [[Frakce - Šarlatové Bratrstvo.md]] zaměřeným na politickou manipulaci versus přímějšímu uctívání Tharizduna? Existuje v ŠB vnitřní rozkol?
+*   Jaký je jeho vztah k "tradičnějším" operacím [[Frakce - Scarlet Brotherhood]] zaměřeným na politickou manipulaci versus přímějšímu uctívání Tharizduna? Existuje v ŠB vnitřní rozkol?
 *   Campaign-4 zmiňuje, že Mr. Dory (člen kultu Chained God a ŠB) předal informace o [[Loď - Emperor of the Waves.md]] (v naší kampani to může být [[Frakce - Zpívající vřeteno (Posádka).md]] nebo [[Předmět - Pečetěná truhla z Vřetena]]) Skerrinovi. To je silné propojení.

@@ -16,12 +16,12 @@ Praskající vlasec (The Snapping Line) je tradiční námořnická hospoda v [[
 *   Může zde být slyšet mnoho drbů a zpráv přímo z moře – o počasí, úlovcích, podivných úkazech na moři, nebo o aktivitách pirátů či jiných lodí.
 
 ## Význam pro Postavy
-*   [[Postava - Brynja Tidebound.md]] jako zkušená námořnice by se zde mohla cítit relativně "doma" nebo zde hledat informace či staré známé.
-*   [[Postava - Skjorn Pupíček Kostitel.md]] by sem mohl zavítat, pokud by hledal práci na lodi nebo jen drsnější společnost.
+*   [[Brynja Tidebound]] jako zkušená námořnice by se zde mohla cítit relativně "doma" nebo zde hledat informace či staré známé.
+*   [[Skjorn Pupíček Kostitel]] by sem mohl zavítat, pokud by hledal práci na lodi nebo jen drsnější společnost.
 *   Dobré místo pro postavy, které chtějí nenápadně naslouchat rozhovorům námořníků nebo najmout posádku.
 
 ## DM Poznámky / Háčky
 *   [[NPC - Hanna Rist.md]] by mohla být zdrojem informací, úkolů (např. ochrana jejího podniku, doručení zprávy na loď) nebo by mohla znát mnoho místních námořních legend.
 *   Jaký je její postoj k frakcím ve městě? Je spíše Tradicionalistka, nebo se drží stranou?
-*   Mohly by se zde objevit námořníci, kteří byli svědky něčeho neobvyklého na moři (spojeného s [[Koncept - Hlas z Hlubin.md]], [[Frakce - Tharizdunovi kultisté.md]], nebo [[Událost - Kraken vs Krakatice (Vize/Proroctví).md]])?
+*   Mohly by se zde objevit námořníci, kteří byli svědky něčeho neobvyklého na moři (spojeného s [[Koncept - Hlas z Hlubin.md]], [[Frakce - Tharizdunovi kultisté.md]], nebo [[Událost - Kraken vs Krakatice (Vize Proroctví)]])?
 *   Je to místo, kde by se mohli rekrutovat členové posádky pro pašerácké operace nebo naopak pro výpravy proti pirátům.

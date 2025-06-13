@@ -25,4 +25,4 @@
 ## DM Poznámky / Háčky
 *   Jaké jsou skutečné úmysly této entity vůči Brynje? Je Brynja nástrojem, vyvolenou, nebo jen hračkou?
 *   Jak reaguje entita na Brynjiny pokusy ji ovládnout nebo se od ní osvobodit?
-*   Mají ostatní postavy nebo NPC (např. [[NPC - Keledek]], [[Frakce - Tharizdunovi kultisté]], [[Frakce - Šarlatové Bratrstvo]]) o této entitě nějaké znalosti nebo zájem?
+*   Mají ostatní postavy nebo NPC (např. [[NPC - Keledek]], [[Frakce - Tharizdunovi kultisté]], [[Frakce - Scarlet Brotherhood]]) o této entitě nějaké znalosti nebo zájem?

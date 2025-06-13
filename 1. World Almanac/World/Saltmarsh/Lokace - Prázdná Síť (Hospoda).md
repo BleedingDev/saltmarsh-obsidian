@@ -25,5 +25,5 @@ Prázdná Síť (The Empty Net) je pochybná a omšelá hospoda v [[Lokace - Sal
 *   Ideální místo pro PC, aby získali informace z podsvětí, našli kontakt na pašeráky, nebo se sami zapletli do nelegálních aktivit.
 *   [[NPC - Kreb Shenker]] by mohl být cenným (i když nebezpečným) zdrojem informací, pokud ho PC dokáží přesvědčit nebo donutit ke spolupráci.
 *   Městská stráž ([[NPC - Eliander Fireborn]]) by mohla hospodu čas od času sledovat nebo provádět razie.
-*   Mohou zde probíhat tajné schůzky agentů [[Frakce - Šarlatové Bratrstvo]].
+*   Mohou zde probíhat tajné schůzky agentů [[Frakce - Scarlet Brotherhood]].
 *   [[Skjorn Pupíček Kostitel]] by sem mohl zavítat, pokud by hledal specifický typ "práce" nebo informací, i když jeho preferovanou hospodou je [[Lokace - U Proutěné kozy (Hospoda)]].

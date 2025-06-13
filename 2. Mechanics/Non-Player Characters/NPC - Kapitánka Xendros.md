@@ -24,6 +24,6 @@ Kapitánka Xendros je tajemná a prohnaná tieflingka, která vede obchod [[Loka
 ## DM Poznámky / Háčky
 *   Jak hluboké je její spojení s Iuzem? Je to jen obchodní značka, nebo skutečně komunikuje s touto entitou a plní její příkazy?
 *   Jaké jsou ceny v jejím obchodě? Přijímá jen zlato, nebo i jiné formy platby (služby, duše, vzácné informace)?
-*   Může mít ve svém sortimentu předměty, které jsou klíčové pro cíle PC, nebo naopak předměty, které by mohly být nebezpečné pro [[Frakce - Tharizdunovi kultisté.md]] nebo [[Frakce - Šarlatové Bratrstvo.md]]?
+*   Může mít ve svém sortimentu předměty, které jsou klíčové pro cíle PC, nebo naopak předměty, které by mohly být nebezpečné pro [[Frakce - Tharizdunovi kultisté.md]] nebo [[Frakce - Scarlet Brotherhood]]?
 *   Mohla by PC požádat o získání nějakého vzácného předmětu nebo komponenty z nebezpečného místa.
 *   Je si vědoma aktivit jiných temných sil v regionu (Tharizdun, Šarlatové Bratrstvo) a jaký k nim má postoj?

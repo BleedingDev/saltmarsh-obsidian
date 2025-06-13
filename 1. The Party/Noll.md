@@ -56,4 +56,4 @@ Můj dluh pro [[NPC - Gellan Primewater]] (to, že pro něj občas něco zaříd
 
 ## DM Poznámky / Háčky
 *   Jeho fascinace nadpřirozenem ho může přivést do kontaktu s [[NPC - Keledek]] nebo ke stopám [[Frakce - Tharizdunovi kultisté]].
-*   Jeho touha po svobodě od Gellana může být využita [[Frakce - Šarlatové Bratrstvo]] nebo [[Frakce - Loajalisté (Saltmarsh)]].
+*   Jeho touha po svobodě od Gellana může být využita [[Frakce - Scarlet Brotherhood]] nebo [[Frakce - Loajalisté (Saltmarsh)]].

@@ -6,7 +6,7 @@
 Starý Alchymistův dům je zchátralé a opuštěné sídlo stojící na útesech na okraji [[Lokace - Saltmarsh (Město)]]. Má pověst strašidelného místa a většina místních obyvatel se mu, zejména po setmění, vyhýbá. Kolují zvěsti o podivných světlech, zvucích a o tom, že zde kdysi žil tajemný alchymista, který prováděl nebezpečné experimenty.
 
 ## Současný Stav a Tajemství
-*   Ve skutečnosti dům slouží jako základna pro pašeráckou skupinu vedenou [[NPC - Sanbalet]] (bude vytvořen později, klíčové NPC pro [[Dobrodružství - The Sinister Secret of Saltmarsh]]).
+*   Ve skutečnosti dům slouží jako základna pro pašeráckou skupinu vedenou [[NPC - Sanbalet]] (klíčové NPC pro [[Dobrodružství - The Sinister Secret of Saltmarsh]]).
 *   Pašeráci využívají "strašidelnou" pověst k odrazení zvědavců.
 *   Pod domem se nachází systém mořských jeskyní, které slouží jako skladiště pro pašované zboží.
 *   V domě mohou být stopy po původním alchymistovi, který zde mohl uctívat temné síly (potenciální napojení na [[Frakce - Tharizdunovi kultisté]]).
@@ -24,5 +24,5 @@ Starý Alchymistův dům je zchátralé a opuštěné sídlo stojící na útese
 
 ## DM Poznámky
 *   Původní alchymista mohl být členem starého kultu Tharizduna a zanechat zde stopy nebo artefakty.
-*   Pašeráci zde mohou pašovat nejen běžné zboží, ale i něco nebezpečnějšího, co by mohlo zajímat [[Frakce - Šarlatové Bratrstvo]] nebo jiné skupiny.
+*   Pašeráci zde mohou pašovat nejen běžné zboží, ale i něco nebezpečnějšího, co by mohlo zajímat [[Frakce - Scarlet Brotherhood]] nebo jiné skupiny.
 *   Jak zareagují Noll a Skjorn, když zjistí pravou podstatu domu?

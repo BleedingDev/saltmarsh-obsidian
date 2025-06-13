@@ -28,7 +28,7 @@ Brání se rostoucímu vlivu krále Keolandu a jeho snahám o centralizaci moci 
 
 ## Vztahy
 *   **Hlavní oponenti:** [[Frakce - Loajalisté (Saltmarsh)]] a zástupci krále Keolandu.
-*   **Potenciální manipulace:** [[Frakce - Šarlatové Bratrstvo]] by se mohlo snažit využít jejich odporu vůči koruně pro své vlastní cíle destabilizace.
+*   **Potenciální manipulace:** [[Frakce - Scarlet Brotherhood]] by se mohlo snažit využít jejich odporu vůči koruně pro své vlastní cíle destabilizace.
 *   **Sympatie:** [[Brynja Tidebound]] s nimi může sympatizovat. [[Noll]] má k nim odpor kvůli [[NPC - Gellan Primewater]].
 
 ## DM Poznámky / Háčky

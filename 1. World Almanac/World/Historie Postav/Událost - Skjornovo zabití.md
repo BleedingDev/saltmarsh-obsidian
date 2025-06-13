@@ -23,6 +23,6 @@ Tato událost popisuje incident z minulosti [[Skjorn Pupíček Kostitel]], kdy z
 ## DM Poznámky / Háčky
 *   **Svědci:** Existovali nějací svědci této události? Mohli by se objevit v Saltmarshi?
 *   **Příbuzní oběti:** Mohli by příbuzní nebo přátelé oběti pátrat po Skjornovi, aby se pomstili nebo ho přivedli k zodpovědnosti?
-*   **Vydírání:** Pokud by se někdo dozvěděl o tomto tajemství ([[Noll]] se svými informačními schopnostmi? Nebo někdo z [[Frakce - Šarlatové Bratrstvo]]?), mohl by Skjorna vydírat.
+*   **Vydírání:** Pokud by se někdo dozvěděl o tomto tajemství ([[Noll]] se svými informačními schopnostmi? Nebo někdo z [[Frakce - Scarlet Brotherhood]]?), mohl by Skjorna vydírat.
 *   **Právní důsledky:** Pokud by se o zabití dozvěděly autority (např. [[NPC - Eliander Fireborn]]), jak by reagovaly, i kdyby se to stalo mimo jejich jurisdikci?
 *   **Cesta k vykoupení:** Mohl by Skjorn hledat způsob, jak se s touto událostí vyrovnat nebo ji odčinit, což by mohlo být součástí jeho dlouhodobého cíle "najít něco, čemu věřit"?

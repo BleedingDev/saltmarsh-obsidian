@@ -44,11 +44,11 @@ Jsem ještě mladá a politika mě zatím příliš nezajímá. Soustředím se 
 *   **Stav:** #cíl_aktivní #cíl_dlouhodobý
 
 ## Tajemství
-Vydávám se za chlapce ([[Koncept - Zigino přestrojení]]), abych měla větší šanci získat práci v kovárně, což je převážně mužský svět.
+Vydávám se za chlapce ([[Koncept - Zigovo přestrojení]]), abych měla větší šanci získat práci v kovárně, což je převážně mužský svět.
 #tajemství
 
 ## Obava
-Že mé tajemství ([[Koncept - Zigino přestrojení]]) bude odhaleno a kvůli tomu, že jsem dívka, mě nikdo nepřijme jako kovářku a ztratím šanci dělat to, co miluji.
+Že mé tajemství ([[Koncept - Zigovo přestrojení]]) bude odhaleno a kvůli tomu, že jsem dívka, mě nikdo nepřijme jako kovářku a ztratím šanci dělat to, co miluji.
 
 ## Vazby na PC
 *   **[[Skjorn Pupíček Kostitel]]**: Skjorn byl jejím ochráncem na lodi z [[Lokace - Niole Dra (Město)]]. Viz [[Vazba - Zig a Skjorn - Ochránce z lodi]].

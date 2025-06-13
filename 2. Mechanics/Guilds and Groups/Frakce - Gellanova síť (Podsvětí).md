@@ -27,7 +27,7 @@ Tato síť představuje hlavní organizovanou kriminální a pašeráckou operac
 ## Vztahy
 *   **Konflikt s:** [[NPC - Eliander Fireborn]] a [[Frakce - Loajalisté (Saltmarsh)]].
 *   **Konflikt s:** [[Noll]] (který se snaží vymanit z Gellanova vlivu).
-*   **Potenciální konflikt/konkurence s:** [[Frakce - Šarlatové Bratrstvo]], pokud by se snažili převzít pašerácké trasy nebo Gellanovu síť.
+*   **Potenciální konflikt/konkurence s:** [[Frakce - Scarlet Brotherhood]], pokud by se snažili převzít pašerácké trasy nebo Gellanovu síť.
 *   **Tichá tolerance (možná):** Někteří členové [[Frakce - Tradicionalisté (Saltmarsh)]] mohou přivírat oči nad jeho aktivitami, pokud přinášejí do města peníze a neohrožují přímo jeho stabilitu.
 
 ## DM Poznámky / Háčky
@@ -35,4 +35,4 @@ Tato síť představuje hlavní organizovanou kriminální a pašeráckou operac
 *   Co všechno pašuje? Jsou to jen "neškodné" luxusní statky, nebo i něco nebezpečnějšího (zbraně pro nesprávné ruce, zakázané magické komponenty)?
 *   Mohl by být Gellan napojen na větší kriminální syndikát mimo Saltmarsh?
 *   Jak by reagoval na přímou hrozbu od [[Noll]] nebo jiných PC, kteří by se snažili jeho operace narušit?
-*   Jeho aktivity mohou být jedním z hlavních zdrojů nestability a korupce, které [[NPC - Skerrin Wavechaser]] a [[Frakce - Šarlatové Bratrstvo]] mohou využít.
+*   Jeho aktivity mohou být jedním z hlavních zdrojů nestability a korupce, které [[NPC - Skerrin Wavechaser]] a [[Frakce - Scarlet Brotherhood]] mohou využít.

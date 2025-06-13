@@ -23,5 +23,5 @@ Kreb Shenker je majitelem a provozovatelem pochybné hospody [[Lokace - Prázdn�
 ## DM Poznámky / Háčky
 *   Je Kreb Shenker skutečně nezávislý, nebo pracuje pro [[NPC - Gellan Primewater.md]] či jinou mocnou postavu v podsvětí?
 *   Jaké informace by byl ochoten sdílet a za jakou cenu? (Peníze, protislužba, informace).
-*   Jeho hospoda by mohla být místem, kde [[Frakce - Šarlatové Bratrstvo]] hledá kontakty nebo šíří dezinformace.
+*   Jeho hospoda by mohla být místem, kde [[Frakce - Scarlet Brotherhood]] hledá kontakty nebo šíří dezinformace.
 *   Mohl by vědět něco o zmizení [[NPC - Finnigan (Zmizelý).md]] nebo o aktivitách spojených se [[Předmět - Pečetěná truhla z Vřetena.md]], pokud se o tom v jeho hospodě mluvilo.

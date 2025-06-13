@@ -22,7 +22,7 @@ Anders Solmor je mladý, idealistický a poměrně nový obchodník v [[Lokace -
 *   (Potenciálně) Získat místo v městské radě.
 
 ## DM Poznámky / Háčky
-*   Jeho naivita a idealismus z něj činí snadný cíl pro manipulaci ze strany [[NPC - Skerrin Wavechaser]] a [[Frakce - Šarlatové Bratrstvo]].
+*   Jeho naivita a idealismus z něj činí snadný cíl pro manipulaci ze strany [[NPC - Skerrin Wavechaser]] a [[Frakce - Scarlet Brotherhood]].
 *   Mohl by se stát důležitým spojencem pro PC, pokud jejich cíle zahrnují boj proti korupci nebo ochranu nevinných.
 *   Jak by reagoval, kdyby zjistil pravdu o Skerrinovi?
 *   Jeho snahy mohou být upřímné, ale mohou mít nezamýšlené důsledky v komplexní politické situaci Saltmarshe.

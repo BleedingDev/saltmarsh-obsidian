@@ -23,7 +23,7 @@ Tato zvláštní bedna byla součástí nákladu na pašerácké lodi [[Frakce -
 ## Význam pro Kampaň
 *   Klíčový předmět pro příběh [[Brynja Tidebound]].
 *   Může být napojena na hlavní zápletku s [[BBEG - Tharizdun]] nebo [[Frakce - Tharizdunovi kultisté]].
-*   Její obsah nebo původ může zajímat i jiné frakce, jako [[Frakce - Šarlatové Bratrstvo]] nebo [[NPC - Keledek]].
+*   Její obsah nebo původ může zajímat i jiné frakce, jako [[Frakce - Scarlet Brotherhood]] nebo [[NPC - Keledek]].
 
 ## DM Poznámky / Háčky
 *   Analýza magických stop na případných troskách lodi nebo vyplavených částech bedny by mohla vyžadovat pomoc specialisty (např. [[NPC - Keledek]]).

@@ -2,6 +2,7 @@
 
 **Tagy:** #frakce #kult #BBEG_frakce #kosmická_hrůza #Saltmarsh_hrozba_skrytá
 
+![[image-1.png]]
 ## Popis a Ideologie
 Tharizdunovi kultisté jsou tajní uctívači [[BBEG - Tharizdun]] (také známého jako Chained God, The Elder Elemental Eye). Tharizdun je božstvo entropie, šílenství, temnoty a konečného zničení veškeré existence. Jeho kultisté věří, že šířením chaosu, utrpení a zkázy posilují svého pána a připravují svět na jeho eventuální osvobození a následnou apokalypsu.
 
@@ -33,7 +34,7 @@ Jejich aktivity jsou téměř vždy skryté, operují z stínů, manipulují ost
 
 ## Vztahy
 *   Nepřátelé všech ostatních bohů a jejich církví (např. kult Procana, kterému slouží [[NPC - Wellgar Brinehanded]]).
-*   Mohou infiltrovat nebo manipulovat jiné frakce, včetně [[Frakce - Šarlatové Bratrstvo]] (pokud Skerrin slouží oběma, nebo pokud ŠB nevědomky slouží cílům kultistů).
+*   Mohou infiltrovat nebo manipulovat jiné frakce, včetně [[Frakce - Scarlet Brotherhood]] (pokud Skerrin slouží oběma, nebo pokud ŠB nevědomky slouží cílům kultistů).
 *   Jejich aktivity jsou hrozbou pro všechny obyvatele Saltmarshe a celého regionu.
 
 ## DM Poznámky / Háčky

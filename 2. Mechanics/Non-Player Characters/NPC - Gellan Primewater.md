@@ -23,5 +23,5 @@ Gellan Primewater je bohatý, okouzlující a poněkud flamboyantní obchodník 
 ## DM Poznámky / Háčky
 *   Jeho sídlo by mohlo skrývat důkazy o jeho nelegálních aktivitách.
 *   Mohl by být zapojen do zmizení [[NPC - Finnigan (Zmizelý)]], pokud Finnigan zkřížil jeho plány nebo se stal nepohodlným.
-*   [[Frakce - Šarlatové Bratrstvo]] by se ho mohlo snažit buď zdiskreditovat, naverbovat, nebo odstranit, aby oslabili Tradicionalisty nebo převzali jeho síť.
+*   [[Frakce - Scarlet Brotherhood]] by se ho mohlo snažit buď zdiskreditovat, naverbovat, nebo odstranit, aby oslabili Tradicionalisty nebo převzali jeho síť.
 *   Jak by reagoval, kdyby zjistil, že [[Noll]] aktivně pracuje proti němu?

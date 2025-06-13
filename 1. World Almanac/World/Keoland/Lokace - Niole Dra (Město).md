@@ -12,7 +12,7 @@ Niole Dra je hlavní a největší město království Keoland, centrum politick
 ## Možné Aspekty relevantní pro Kampaň
 *   **Kovářské cechy:** V Niole Dra pravděpodobně existují mocné a zavedené kovářské cechy, které mohou mít přísná pravidla a být nepřátelské vůči nezávislým řemeslníkům nebo těm, kdo se snaží prorazit mimo jejich struktury. (Možný háček pro [[Plot Hook - Zigina skrytá agenda - Špionka cechu]] nebo [[Plot Hook - Zigina skrytá agenda - Uprchlice s dluhem]]).
 *   **Královský dvůr:** Sídlo krále Kimberta Skottiho a jeho administrativy.
-*   **Centrála [[Frakce - Šarlatové Bratrstvo]] v Keolandu?** Není vyloučeno, že zde mají významnou buňku nebo dokonce regionální velitelství.
+*   **Centrála [[Frakce - Scarlet Brotherhood]] v Keolandu?** Není vyloučeno, že zde mají významnou buňku nebo dokonce regionální velitelství.
 *   **Podsvětí:** Velké město má jistě i rozsáhlé a organizované podsvětí.
 
 ## DM Poznámky / Háčky
