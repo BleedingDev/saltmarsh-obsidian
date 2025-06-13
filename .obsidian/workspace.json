@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Frakce - Tradicionalisté (Saltmarsh)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Guilds and Groups/Frakce - Tradicionalisté (Saltmarsh).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Frakce - Tradicionalisté (Saltmarsh)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":123},\"to\":{\"line\":31,\"ch\":123}},\"scroll\":17.262091091597693}"
+                },
+                {
                   "title": "Předmět - Pečetěná truhla z Vřetena",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Items/Předmět - Pečetěná truhla z Vřetena.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Předmět - Pečetěná truhla z Vřetena\"}",
@@ -352,7 +358,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Mechanics/Guilds and Groups/Frakce - Tradicionalisté (Saltmarsh).md",
+                "file": "2. Mechanics/Guilds and Groups/Frakce - Tharizdunovi kultisté.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -367,7 +373,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Frakce - Tradicionalisté (Saltmarsh)"
+              "title": "Frakce - Tharizdunovi kultisté"
             }
           },
           {
@@ -739,6 +745,7 @@
   },
   "active": "08db9525d4abc14d",
   "lastOpenFiles": [
+    "2. Mechanics/Guilds and Groups/Frakce - Tradicionalisté (Saltmarsh).md",
     "2. Mechanics/Items/Předmět - Pečetěná truhla z Vřetena.md",
     "2. Mechanics/Non-Player Characters/NPC - Wellgar Brinehanded.md",
     "2. Mechanics/Non-Player Characters/NPC - Skerrin Wavechaser.md",
@@ -764,7 +771,6 @@
     "2. Mechanics/Non-Player Characters/NPC - Anders Solmor.md",
     "2. Mechanics/Deities/Deita - Procan.md",
     "1. World Almanac/World/Saltmarsh/Lokace - Chrám Procana (Saltmarsh).md",
-    "1. World Almanac/World/Kronika Saltmarshe/Plot Hook - Zigina skrytá agenda - Uprchlice s dluhem.md",
     "Excalidraw",
     "1. The Party/Vazby",
     "1. World Almanac/World/Kronika Saltmarshe",
