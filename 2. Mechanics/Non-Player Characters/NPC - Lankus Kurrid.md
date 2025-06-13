@@ -22,6 +22,6 @@ Lankus Kurrid je majitelem a provozovatelem hostince [[Lokace - U Proutěné koz
 
 ## DM Poznámky / Háčky
 *   Lankus by mohl být dobrým zdrojem informací o názorech a aktivitách Loajalistů nebo o dění ve městě z pohledu "spořádaného občana".
-*   Jaký je jeho názor na [[Postava - Skjorn Pupíček Kostitel.md]] a jeho zájem o [[NPC - Růža (Hostinec U Proutěné kozy).md]]? Mohl by být vůči Skjornovi ostražitý nebo naopak shovívavý?
+*   Jaký je jeho názor na [[Skjorn Pupíček Kostitel]] a jeho zájem o [[NPC - Růža (Hostinec U Proutěné kozy).md]]? Mohl by být vůči Skjornovi ostražitý nebo naopak shovívavý?
 *   Jeho hostinec by se mohl stát místem neformálních schůzek Loajalistů nebo místem, kde se postavy mohou bezpečněji setkat s některými NPC.
 *   Mohl by mít nějaké vlastní problémy (např. s dodavateli, s konkurencí, s hlučnými hosty), se kterými by mohl potřebovat pomoc.

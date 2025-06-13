@@ -12,7 +12,7 @@ Kreb Shenker je majitelem a provozovatelem pochybné hospody [[Lokace - Prázdn�
 
 ## Vztahy
 *   Jeho klientelu tvoří především námořníci, pašeráci, a další pochybná individua. Pravděpodobně zná mnoho členů [[Frakce - Gellanova síť (Podsvětí)]].
-*   [[Postava - Noll.md]] a [[Postava - Brynja Tidebound.md]] (kvůli jejímu úkrytu poblíž) mohou být pro něj známé tváře, i když nemusí nutně vědět o jejich tajemstvích.
+*   [[Noll]] a [[Brynja Tidebound]] (kvůli jejímu úkrytu poblíž) mohou být pro něj známé tváře, i když nemusí nutně vědět o jejich tajemstvích.
 *   Může mít napjatý vztah s městskou stráží a [[NPC - Eliander Fireborn.md]].
 
 ## Možné Cíle

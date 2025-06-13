@@ -11,7 +11,7 @@ Kapitánka Xendros je tajemná a prohnaná tieflingka, která vede obchod [[Loka
 *   Může nabízet i další služby, jako je identifikace magických předmětů nebo zprostředkování kontaktů na specialisty v určitých oborech (často za vysokou cenu).
 
 ## Vztahy
-*   **[[Postava - Noll.md]]**: Je fascinován jejím obchodem a nadpřirozenem, mohl by být jejím občasným zákazníkem nebo se snažit získat její přízeň či informace.
+*   **[[Noll]]**: Je fascinován jejím obchodem a nadpřirozenem, mohl by být jejím občasným zákazníkem nebo se snažit získat její přízeň či informace.
 *   **[[NPC - Keledek.md]]**: Mohl by s ní obchodovat se vzácnými komponenty nebo magickými předměty, nebo by mohli být rivaly či si navzájem nedůvěřovat.
 *   Její klientela pravděpodobně zahrnuje dobrodruhy, čaroděje, alchymisty a další, kdo hledají neobvyklé zboží.
 *   Může mít napjatý vztah s autoritami v Saltmarshi ([[NPC - Eliander Fireborn.md]], [[NPC - Wellgar Brinehanded.md]]) kvůli povaze svého obchodu a spojení s Iuzem.

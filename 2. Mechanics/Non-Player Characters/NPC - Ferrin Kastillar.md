@@ -15,7 +15,7 @@ Ferrin Kastillar je halfling druid, který se stará o Mořský háj Obad-Haie (
 *   Pravděpodobně má dobré vztahy s [[NPC - Wellgar Brinehanded.md]] a [[NPC - Krag (Hrobník).md]], jako další duchovní autorita ve městě, i když mohou mít odlišné pohledy na některé věci.
 *   Může mít kontakty s jinými druidy, zálesáky nebo přírodními tvory v [[Lokace - Dreadwood (Les)]] nebo v širším okolí.
 *   Jeho postoj k [[Frakce - Loajalisté (Saltmarsh).md]] a jejich iniciativám (jako [[Lokace - Doly u Saltmarshe.md]]) může být rezervovaný nebo kritický, pokud vnímá jejich aktivity jako hrozbu pro přírodu.
-*   [[Postava - Skjorn Pupíček Kostitel.md]] se svým původem poblíž Dreadwoodu by s ním mohl najít společnou řeč nebo od něj získat informace o lese.
+*   [[Skjorn Pupíček Kostitel]] se svým původem poblíž Dreadwoodu by s ním mohl najít společnou řeč nebo od něj získat informace o lese.
 
 ## Možné Cíle
 *   Chránit přírodní rovnováhu v regionu.

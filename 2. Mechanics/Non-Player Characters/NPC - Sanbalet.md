@@ -14,7 +14,7 @@ Sanbalet je chytrý a schopný mág, který vede pašeráckou operaci sídlící
 ## Vztahy
 *   **Jeho posádka:** Velí skupině různých kriminálníků.
 *   **Lizardfolk z Dunwateru:** Je dodavatelem zbraní pro [[Frakce - Ještěráci z Dunwateru.md]] (bude vytvořena později).
-*   **Potenciální nepřítel pro:** [[Postava - Noll.md]] a [[Postava - Skjorn Pupíček Kostitel.md]], pokud budou prozkoumávat Alchymistův dům.
+*   **Potenciální nepřítel pro:** [[Noll]] a [[Skjorn Pupíček Kostitel]], pokud budou prozkoumávat Alchymistův dům.
 *   Nepřítel pro [[Lokace - Saltmarsh (Město)]] a jeho stráže, pokud budou jeho aktivity odhaleny.
 
 ## Možné Cíle

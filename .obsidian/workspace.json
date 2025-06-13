@@ -18,6 +18,204 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Předmět - Pečetěná truhla z Vřetena",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Items/Předmět - Pečetěná truhla z Vřetena.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Předmět - Pečetěná truhla z Vřetena\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":115},\"to\":{\"line\":25,\"ch\":115}},\"scroll\":13.20166608369684}"
+                },
+                {
+                  "title": "NPC - Wellgar Brinehanded",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Wellgar Brinehanded.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Wellgar Brinehanded\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":114},\"to\":{\"line\":18,\"ch\":114}},\"scroll\":3.7947045962015786}"
+                },
+                {
+                  "title": "NPC - Skerrin Wavechaser",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Skerrin Wavechaser.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Skerrin Wavechaser\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":106},\"to\":{\"line\":21,\"ch\":106}},\"scroll\":13.666803018038197}"
+                },
+                {
+                  "title": "NPC - Sanbalet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Sanbalet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Sanbalet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":56},\"to\":{\"line\":21,\"ch\":56}},\"scroll\":7.498611551283103}"
+                },
+                {
+                  "title": "0. Cíle postav",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/0. Cíle postav.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"0. Cíle postav\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":77,\"ch\":31},\"to\":{\"line\":77,\"ch\":31}},\"scroll\":60.49261895815531}"
+                },
+                {
+                  "title": "NPC - Sanbalet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Sanbalet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Sanbalet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":137},\"to\":{\"line\":5,\"ch\":137}},\"scroll\":0.004965474536520413}"
+                },
+                {
+                  "title": "NPC - Růža (Hostinec U Proutěné kozy)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Růža (Hostinec U Proutěné kozy).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Růža (Hostinec U Proutěné kozy)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":115},\"to\":{\"line\":15,\"ch\":115}},\"scroll\":3.7947045962015786}"
+                },
+                {
+                  "title": "NPC - Mr. Dory",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Mr. Dory.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Mr. Dory\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":271},\"to\":{\"line\":24,\"ch\":271}},\"scroll\":14.292821692030953}"
+                },
+                {
+                  "title": "NPC - Manistrad Copperlocks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Manistrad Copperlocks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Manistrad Copperlocks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":154},\"to\":{\"line\":27,\"ch\":154}},\"scroll\":16.506076494852703}"
+                },
+                {
+                  "title": "NPC - Mafera",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Mafera.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Mafera\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":140},\"to\":{\"line\":28,\"ch\":140}},\"scroll\":17.600692987442017}"
+                },
+                {
+                  "title": "NPC - Maelen Croft",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Maelen Croft.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Maelen Croft\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":102},\"to\":{\"line\":15,\"ch\":102}},\"scroll\":0.8292342418275849}"
+                },
+                {
+                  "title": "NPC - Lankus Kurrid",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Lankus Kurrid.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Lankus Kurrid\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":130},\"to\":{\"line\":26,\"ch\":130}},\"scroll\":13.322598290612314}"
+                },
+                {
+                  "title": "NPC - Kreb Shenker",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Kreb Shenker.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Kreb Shenker\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":113},\"to\":{\"line\":25,\"ch\":113}},\"scroll\":14.296403608941239}"
+                },
+                {
+                  "title": "NPC - Krag (Hrobník)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Krag (Hrobník).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Krag (Hrobník)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":101},\"to\":{\"line\":29,\"ch\":101}},\"scroll\":20.446724583585006}"
+                },
+                {
+                  "title": "NPC - Keledek",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Keledek.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Keledek\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":106},\"to\":{\"line\":29,\"ch\":106}},\"scroll\":15.169491655644258}"
+                },
+                {
+                  "title": "NPC - Kapitánka Xendros",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Kapitánka Xendros.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Kapitánka Xendros\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":110},\"to\":{\"line\":28,\"ch\":110}},\"scroll\":14.428688901326367}"
+                },
+                {
+                  "title": "NPC - Jasker (Mafeřin syn)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Jasker (Mafeřin syn).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Jasker (Mafeřin syn)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":120},\"to\":{\"line\":27,\"ch\":120}},\"scroll\":15.576162949122333}"
+                },
+                {
+                  "title": "NPC - Gellan Primewater",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Gellan Primewater.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Gellan Primewater\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":159},\"to\":{\"line\":25,\"ch\":159}},\"scroll\":13.502687237254262}"
+                },
+                {
+                  "title": "NPC - Finnigan (Zmizelý)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Finnigan (Zmizelý).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Finnigan (Zmizelý)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":98},\"to\":{\"line\":26,\"ch\":98}},\"scroll\":7.990814059276413}"
+                },
+                {
+                  "title": "NPC - Ferrin Kastillar",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Ferrin Kastillar.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Ferrin Kastillar\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":173},\"to\":{\"line\":28,\"ch\":173}},\"scroll\":14.428329195012862}"
+                },
+                {
+                  "title": "NPC - Eliander Fireborn",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Eliander Fireborn.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Eliander Fireborn\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":108},\"to\":{\"line\":28,\"ch\":108}},\"scroll\":9.602315076732467}"
+                },
+                {
+                  "title": "NPC - Eda Oweland",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Eda Oweland.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Eda Oweland\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":130},\"to\":{\"line\":26,\"ch\":130}},\"scroll\":7.977141350142475}"
+                },
+                {
+                  "title": "NPC - Anders Solmor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Anders Solmor.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Anders Solmor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":105},\"to\":{\"line\":15,\"ch\":105}},\"scroll\":17.044007741672417}"
+                },
+                {
+                  "title": "Předmět - Pečetěná truhla z Vřetena",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Items/Předmět - Pečetěná truhla z Vřetena.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Předmět - Pečetěná truhla z Vřetena\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.004965474536520413}"
+                },
+                {
+                  "title": "Deita - Procan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Deities/Deita - Procan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Deita - Procan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.004965474536520413}"
+                },
+                {
+                  "title": "Lokace - Chrám Procana (Saltmarsh)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Saltmarsh/Lokace - Chrám Procana (Saltmarsh).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - Chrám Procana (Saltmarsh)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.004965474536520413}"
+                },
+                {
+                  "title": "Plot Hook - Zigina skrytá agenda - Uprchlice s dluhem",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Kronika Saltmarshe/Plot Hook - Zigina skrytá agenda - Uprchlice s dluhem.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Plot Hook - Zigina skrytá agenda - Uprchlice s dluhem\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.003270311717451034}"
+                },
+                {
+                  "title": "Plot Hook - Skerrin Patronuje Brynju",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Kronika Saltmarshe/Plot Hook - Skerrin Patronuje Brynju.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Plot Hook - Skerrin Patronuje Brynju\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":370},\"to\":{\"line\":5,\"ch\":370}},\"scroll\":2.689018964767456}"
+                },
+                {
+                  "title": "Plot Hook - Zigina skrytá agenda - Uprchlice s dluhem",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Kronika Saltmarshe/Plot Hook - Zigina skrytá agenda - Uprchlice s dluhem.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Plot Hook - Zigina skrytá agenda - Uprchlice s dluhem\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":164},\"to\":{\"line\":24,\"ch\":164}},\"scroll\":14.748771636545081}"
+                },
+                {
+                  "title": "Plot Hook - Skerrin Patronuje Brynju",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Kronika Saltmarshe/Plot Hook - Skerrin Patronuje Brynju.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Plot Hook - Skerrin Patronuje Brynju\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.004965474536520413}"
+                },
+                {
+                  "title": "Frakce - Tradicionalisté (Saltmarsh)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Guilds and Groups/Frakce - Tradicionalisté (Saltmarsh).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Frakce - Tradicionalisté (Saltmarsh)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.004965474536520413}"
+                },
+                {
+                  "title": "Předmět - Pečetěná truhla z Vřetena",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Items/Předmět - Pečetěná truhla z Vřetena.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Předmět - Pečetěná truhla z Vřetena\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":115},\"to\":{\"line\":25,\"ch\":115}},\"scroll\":26.836806138356526}"
+                },
+                {
+                  "title": "NPC - Sanbalet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Sanbalet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Sanbalet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":203},\"to\":{\"line\":25,\"ch\":203}},\"scroll\":15.632492468756638}"
+                },
+                {
                   "title": "Zig",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Zig.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Zig\"}",
@@ -154,7 +352,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Mechanics/Non-Player Characters/NPC - Sanbalet.md",
+                "file": "2. Mechanics/Guilds and Groups/Frakce - Tradicionalisté (Saltmarsh).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -169,7 +367,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NPC - Sanbalet"
+              "title": "Frakce - Tradicionalisté (Saltmarsh)"
+            }
+          },
+          {
+            "id": "756c5e45ef242ce8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. World Almanac/World/Ekonomika a Společnost/Koncept - Zigino přestrojení.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Koncept - Zigino přestrojení"
             }
           }
         ]
@@ -222,7 +453,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Zpívající vřeteno",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -508,33 +739,33 @@
   },
   "active": "08db9525d4abc14d",
   "lastOpenFiles": [
-    "2. Mechanics/Non-Player Characters/NPC - Mr. Dory.md",
-    "1. The Party/Zig.md",
-    "1. The Party/Brynja Tidebound.md",
-    "2. Mechanics/Non-Player Characters/NPC - Skerrin Wavechaser.md",
-    "1. World Almanac/World/Saltmarsh/Lokace - Starý Alchymistův dům (Saltmarsh).md",
-    "1. World Almanac/World/Saltmarsh/Lokace - Winston's Store (Obchod).md",
-    "2. Mechanics/Deities/Deita - Procan.md",
-    "1. World Almanac/World/Saltmarsh/Lokace - Praskající vlasec (Hospoda).md",
-    "2. Mechanics/Non-Player Characters/NPC - Ferrin Kastillar.md",
-    "2. Mechanics/Non-Player Characters/NPC - Maelen Croft.md",
-    "2. Mechanics/Non-Player Characters/NPC - Sanbalet.md",
-    "2. Mechanics/Non-Player Characters/NPC - Mafera.md",
-    "2. Mechanics/Non-Player Characters/NPC - Manistrad Copperlocks.md",
-    "2. Mechanics/Non-Player Characters/NPC - Růža (Hostinec U Proutěné kozy).md",
+    "2. Mechanics/Items/Předmět - Pečetěná truhla z Vřetena.md",
     "2. Mechanics/Non-Player Characters/NPC - Wellgar Brinehanded.md",
-    "Excalidraw/Drawing 2025-06-13 11.37.34.excalidraw.md",
-    "NPC - Mr. Dory.md",
+    "2. Mechanics/Non-Player Characters/NPC - Skerrin Wavechaser.md",
+    "2. Mechanics/Non-Player Characters/NPC - Sanbalet.md",
+    "1. The Party/0. Cíle postav.md",
+    "2. Mechanics/Non-Player Characters/NPC - Růža (Hostinec U Proutěné kozy).md",
+    "2. Mechanics/Non-Player Characters/NPC - Mr. Dory.md",
+    "2. Mechanics/Non-Player Characters/NPC - Manistrad Copperlocks.md",
+    "2. Mechanics/Non-Player Characters/NPC - Mafera.md",
+    "1. World Almanac/World/Ekonomika a Společnost/Koncept - Zigino přestrojení.md",
+    "2. Mechanics/Non-Player Characters/NPC - Maelen Croft.md",
+    "2. Mechanics/Non-Player Characters/NPC - Lankus Kurrid.md",
+    "2. Mechanics/Non-Player Characters/NPC - Kreb Shenker.md",
+    "2. Mechanics/Non-Player Characters/NPC - Krag (Hrobník).md",
+    "2. Mechanics/Non-Player Characters/NPC - Keledek.md",
+    "2. Mechanics/Non-Player Characters/NPC - Kapitánka Xendros.md",
+    "2. Mechanics/Non-Player Characters/NPC - Jasker (Mafeřin syn).md",
+    "2. Mechanics/Non-Player Characters/NPC - Gellan Primewater.md",
     "2. Mechanics/Non-Player Characters/NPC - Finnigan (Zmizelý).md",
+    "2. Mechanics/Non-Player Characters/NPC - Ferrin Kastillar.md",
     "2. Mechanics/Non-Player Characters/NPC - Eliander Fireborn.md",
     "2. Mechanics/Non-Player Characters/NPC - Eda Oweland.md",
     "2. Mechanics/Non-Player Characters/NPC - Anders Solmor.md",
-    "2. Mechanics/Non-Player Characters/BBEG - Tharizdun.md",
-    "1. World Almanac/World/Kronika Saltmarshe/Plot Hook - Skerrin Patronuje Brynju.md",
-    "1. World Almanac/World/Historie Postav/Událost - Skjornovo zabití.md",
+    "2. Mechanics/Deities/Deita - Procan.md",
+    "1. World Almanac/World/Saltmarsh/Lokace - Chrám Procana (Saltmarsh).md",
+    "1. World Almanac/World/Kronika Saltmarshe/Plot Hook - Zigina skrytá agenda - Uprchlice s dluhem.md",
     "Excalidraw",
-    "2. Mechanics/Non-Player Characters/NPC - Lankus Kurrid.md",
-    "1. The Party/Skjorn Pupíček Kostitel.md",
     "1. The Party/Vazby",
     "1. World Almanac/World/Kronika Saltmarshe",
     "1. World Almanac/World/Historie Postav",

@@ -9,7 +9,7 @@ Tato zvláštní bedna byla součástí nákladu na pašerácké lodi [[Frakce -
 *   Byla přepravována na [[Frakce - Zpívající vřeteno (Posádka)]] během její poslední plavby. [[Brynja Tidebound]] a kapitán [[NPC - Maelen Croft]] věděli, že nejde o běžný náklad.
 *   V noci třetího dne cesty se z truhly ozval hluboký, rezonující "zpěv". Tento zpěv způsobil, že část posádky zešílela.
 *   Kapitán [[NPC - Maelen Croft]] se pokusil bednu znovu zapečetit, ale bylo pozdě.
-*   Aktivace truhly korespondovala s projevem [[Koncept - Hlas z Hlubin]] and následným zničením lodi a osudem posádky.
+*   Aktivace truhly korespondovala s projevem [[Koncept - Hlas z Hlubin]] a následným zničením lodi a osudem posádky.
 
 ## Neznámé Aspekty
 *   **Obsah:** Co přesně truhla obsahovala, je hlavním cílem pro [[Brynja Tidebound]] (její střednědobý cíl). Mohlo jít o:

@@ -20,6 +20,6 @@ Mr. Dory je (nebo byl) zdánlivě legitimní obchodník s rybami a vlivná posta
 ## DM Poznámky / Háčky
 *   Jak se jeho vliv z [[Lokace - The Styes (Čtvrť)]] může rozšířit až do Saltmarshe? Mohl by být zdrojem některých problémů, se kterými se PC setkají?
 *   Jeho operace by mohly být jedním z hlavních cílů pro PC v pozdější fázi kampaně.
-*   Mohl by mít zájem o [[Postava - Brynja Tidebound.md]] a její spojení s [[Koncept - Hlas z Hlubin.md]], pokud se o ní dozví.
+*   Mohl by mít zájem o [[Brynja Tidebound]] a její spojení s [[Koncept - Hlas z Hlubin.md]], pokud se o ní dozví.
 *   Jaký je jeho vztah k "tradičnějším" operacím [[Frakce - Šarlatové Bratrstvo.md]] zaměřeným na politickou manipulaci versus přímějšímu uctívání Tharizduna? Existuje v ŠB vnitřní rozkol?
 *   Campaign-4 zmiňuje, že Mr. Dory (člen kultu Chained God a ŠB) předal informace o [[Loď - Emperor of the Waves.md]] (v naší kampani to může být [[Frakce - Zpívající vřeteno (Posádka).md]] nebo [[Předmět - Pečetěná truhla z Vřetena]]) Skerrinovi. To je silné propojení.

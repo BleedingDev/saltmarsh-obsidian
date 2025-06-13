@@ -12,8 +12,8 @@ Keledek, často zvaný Keledek Nemluvný (Keledek the Unspoken), je tajemný a s
 
 ## Vztahy
 *   Nemá mnoho blízkých vztahů ve městě, je spíše izolovaný.
-*   [[Postava - Noll.md]] je fascinován nadpřirozenem a mohl by se snažit Keledeka kontaktovat nebo se dozvědět více o jeho práci.
-*   [[Postava - Brynja Tidebound.md]] by mohla potřebovat jeho expertní znalosti k analýze magických stop na [[Předmět - Pečetěná truhla z Vřetena]] nebo k pochopení [[Koncept - Hlas z Hlubin]].
+*   [[Noll]] je fascinován nadpřirozenem a mohl by se snažit Keledeka kontaktovat nebo se dozvědět více o jeho práci.
+*   [[Brynja Tidebound]] by mohla potřebovat jeho expertní znalosti k analýze magických stop na [[Předmět - Pečetěná truhla z Vřetena]] nebo k pochopení [[Koncept - Hlas z Hlubin]].
 *   [[NPC - Kapitánka Xendros]] z obchodu [[Lokace - Věrní proviantmistři Iuzovi (Obchod)]] by s ním mohla obchodovat se vzácnými komponenty nebo magickými předměty.
 
 ## Možné Znalosti a Schopnosti
