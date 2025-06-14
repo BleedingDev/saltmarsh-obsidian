@@ -11,8 +11,14 @@
             "id": "69fe96f8ffdc3a25",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "NPC - Manistrad Copperlocks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Manistrad Copperlocks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Manistrad Copperlocks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":45},\"to\":{\"line\":13,\"ch\":52}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -39,8 +45,147 @@
               "icon": "lucide-file",
               "title": "Leaflet map"
             }
+          },
+          {
+            "id": "45a028562d6f5383",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Lokace - Saltmarsh (Město)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - Saltmarsh (Město)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":12},\"to\":{\"line\":8,\"ch\":12}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Scratch Notes/Interesting resources.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Interesting resources"
+            }
+          },
+          {
+            "id": "fc75270a1c2273e3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "NPC - Sanbalet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Sanbalet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Sanbalet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":48},\"to\":{\"line\":5,\"ch\":48}}}"
+                },
+                {
+                  "title": "NPC - Růža (Hostinec U Proutěné kozy)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Růža (Hostinec U Proutěné kozy).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Růža (Hostinec U Proutěné kozy)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "NPC - Manistrad Copperlocks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Manistrad Copperlocks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Manistrad Copperlocks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "NPC - Mafera",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Mafera.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Mafera\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "NPC - Maelen Croft",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Maelen Croft.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Maelen Croft\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "NPC - Lankus Kurrid",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Lankus Kurrid.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Lankus Kurrid\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "NPC - Kreb Shenker",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Kreb Shenker.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Kreb Shenker\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "NPC - Eda Oweland",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Eda Oweland.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Eda Oweland\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Lokace - Dreadwood (Les)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Okolí Saltmarshe/Lokace - Dreadwood (Les).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - Dreadwood (Les)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":34},\"to\":{\"line\":10,\"ch\":34}},\"scroll\":0}"
+                },
+                {
+                  "title": "NPC - Eda Oweland",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Eda Oweland.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Eda Oweland\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":144},\"to\":{\"line\":10,\"ch\":144}},\"scroll\":0.08441306223741896}"
+                },
+                {
+                  "title": "NPC - Eliander Fireborn",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Eliander Fireborn.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Eliander Fireborn\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":86},\"to\":{\"line\":8,\"ch\":86}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. World Almanac/World/Saltmarsh/Lokace - Praskající vlasec (Hospoda).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lokace - Praskající vlasec (Hospoda)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -405,18 +550,33 @@
       "templater-obsidian:Templater": false,
       "smart-connections:Open: Smart Chat": false,
       "smart-connections:Open: View Smart Connections": false,
-      "fantasy-content-generator:Fantasy Generators": false
+      "fantasy-content-generator:Fantasy Generators": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "69fe96f8ffdc3a25",
+  "active": "45a028562d6f5383",
   "lastOpenFiles": [
-    "z_Assets/saltmarsh-old.png",
+    "1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md",
     "z_Assets/saltmarsh-legends-labels.jpg",
+    "Test.md",
+    "z_Assets/saltmarsh-old.png",
+    "1. World Almanac/World/Saltmarsh/Lokace - Doly u Saltmarshe.md",
+    "1. World Almanac/World/Saltmarsh/Lokace - Praskající vlasec (Hospoda).md",
+    "2. Mechanics/Non-Player Characters/NPC - Sanbalet.md",
+    "2. Mechanics/Non-Player Characters/NPC - Růža (Hostinec U Proutěné kozy).md",
+    "2. Mechanics/Non-Player Characters/NPC - Manistrad Copperlocks.md",
+    "2. Mechanics/Non-Player Characters/NPC - Mafera.md",
+    "2. Mechanics/Non-Player Characters/NPC - Maelen Croft.md",
+    "2. Mechanics/Non-Player Characters/NPC - Lankus Kurrid.md",
+    "2. Mechanics/Non-Player Characters/NPC - Kreb Shenker.md",
+    "2. Mechanics/Non-Player Characters/NPC - Eda Oweland.md",
+    "1. World Almanac/World/Okolí Saltmarshe/Lokace - Dreadwood (Les).md",
+    "2. Mechanics/Non-Player Characters/NPC - Eliander Fireborn.md",
+    "eli.md",
+    "z_Templates/Leaflet map.md",
     "z_Assets/Pasted Image 20250614000148_779.png",
     "z_Assets/saltmarsh-legends.png",
     "z_Assets/saltmarsh-legends-desc.pdf",
-    "z_Templates/Leaflet map.md",
-    "1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md",
     "z_Templates/Leaftllet.md",
     "0. Scratch Notes/Interesting resources.md",
     "Excalidraw/Drawing 2025-06-14 00.01.15.excalidraw.md",
@@ -427,21 +587,7 @@
     "2. Session Journals/Preparations - Scenes/0. Nedávno se stalo.md",
     "1. World Almanac/World/Kronika Saltmarshe/Událost - Střet v přístavu (Saltmarsh).md",
     "1. World Almanac/World/Saltmarsh/Lokace - Chrám Procana (Saltmarsh).md",
-    "2. Session Journals/Preparations - Scenes/1. Startovní scéna.md",
-    "1. World Almanac/World/Mystéria a Legendy/Událost - Kraken vs Krakatice (Vize Proroctví).md",
-    "2. Mechanics/Non-Player Characters/NPC - Mr. Dory.md",
-    "2. Mechanics/Non-Player Characters/NPC - Krag (Hrobník).md",
-    "1. World Almanac/World/Saltmarsh/Lokace - Praskající vlasec (Hospoda).md",
-    "1. The Party/Noll.md",
-    "2. Mechanics/Guilds and Groups/Frakce - Gellanova síť (Podsvětí).md",
-    "0. Scratch Notes/Scarlet Brotherhood - Zpívající vřeteno.md",
-    "2. Mechanics/Non-Player Characters/NPC - Růža (Hostinec U Proutěné kozy).md",
     "2. Session Journals/Preparations - Scenes",
-    "2. Mechanics/Guilds and Groups/Frakce - Tharizdunovi kultisté.md",
-    "2. Mechanics/Non-Player Characters/NPC - Eda Oweland.md",
-    "2. Mechanics/Guilds and Groups/Frakce - Tradicionalisté (Saltmarsh).md",
-    "1. The Party/Skjorn Pupíček Kostitel.md",
-    "2. Mechanics/Non-Player Characters/NPC - Manistrad Copperlocks.md",
     "Excalidraw",
     "1. The Party/Vazby",
     "1. World Almanac/World/Kronika Saltmarshe",

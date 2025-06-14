@@ -2,15 +2,289 @@
   "mapMarkers": [
     {
       "id": "MapCalcExample",
-      "lastAccessed": 1749852711772,
+      "lastAccessed": 1749859206748,
       "markers": [
         {
-          "id": "ID_39288a0aca48",
+          "id": "ID_cb7b3a183a48",
           "type": "default",
           "loc": [
-            972.3541870117188,
-            947.6666259765625
+            1121.3333740234375,
+            2444.6666259765625
           ],
+          "link": "Lokace - Chrám Procana (Saltmarsh)",
+          "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            11.717994612230378,
+            -7.03581724877451
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8bbb98879d9",
+          "type": "default",
+          "loc": [
+            992.3541259765625,
+            2599.000244140625
+          ],
+          "link": "Lokace - Doly u Saltmarshe",
+          "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b99a9b8bcab8",
+          "type": "NPC",
+          "loc": [
+            1349.6458435058594,
+            614.3238263461396
+          ],
+          "link": "NPC - Eliander Fireborn",
+          "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5918485b986a",
+          "type": "NPC",
+          "loc": [
+            1281.2916870117188,
+            846.6438985217994
+          ],
+          "link": "NPC - Eda Oweland",
+          "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab586a8b98e9",
+          "type": "NPC",
+          "loc": [
+            1099.2916870117188,
+            752.6413037274972
+          ],
+          "link": "NPC - Keledek",
+          "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5919badbc9f8",
+          "type": "NPC",
+          "loc": [
+            1167.333251953125,
+            1880.6659266691734
+          ],
+          "link": "NPC - Anders Solmor",
+          "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db5b1adad819",
+          "type": "NPC",
+          "loc": [
+            1127.333251953125,
+            1958.0008833342304
+          ],
+          "link": "NPC - Skerrin Wavechaser",
+          "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_681afbaa7beb",
+          "type": "default",
+          "loc": [
+            1163.2916870117188,
+            1484.6615099980208
+          ],
+          "link": "Lokace - Saltmarsh (Město)",
+          "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d94b1a79bbf9",
+          "type": "default",
+          "loc": [
+            955.8229217529297,
+            1426.6650048428767
+          ],
+          "link": "Lokace - Věrní proviantmistři Iuzovi (Obchod)",
+          "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b92a3b995a28",
+          "type": "NPC",
+          "loc": [
+            866.4120608174911,
+            1656.52351217405
+          ],
+          "link": "NPC - Gellan Primewater",
+          "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_78badad8b909",
+          "type": "NPC",
+          "loc": [
+            1119.5562884822752,
+            2641.5226805660786
+          ],
+          "link": "NPC - Krag (Hrobník)",
+          "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca594b1be838",
+          "type": "default",
+          "loc": [
+            1164.8111224782142,
+            2262.5005454686398
+          ],
+          "link": "Lokace - Winston's Store (Obchod)",
+          "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_980b88e9a899",
+          "type": "default",
+          "loc": [
+            1035.8229217529297,
+            1159.0739946448934
+          ],
+          "link": "Lokace - Prázdná Síť (Hospoda)",
+          "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_393a5b58a878",
+          "type": "default",
+          "loc": [
+            1022.9330211807668,
+            2307.6391444698934
+          ],
+          "link": "Lokace - Praskající vlasec (Hospoda)",
+          "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_594869880beb",
+          "type": "NPC",
+          "loc": [
+            954.5794375966886,
+            1416.2168326794615
+          ],
+          "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea3a0948ebd8",
+          "type": "NPC",
+          "loc": [
+            943.2510120925537,
+            1406.905864993575
+          ],
+          "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2ae82b386888",
+          "type": "NPC",
+          "loc": [
+            952.2371032256355,
+            1421.7575141860764
+          ],
+          "link": "NPC - Kapitánka Xendros",
           "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
           "mutable": true,
           "command": false,
@@ -30,20 +304,38 @@
   ],
   "defaultMarker": {
     "type": "default",
-    "iconName": "map-marker",
-    "color": "#dddddd",
+    "iconName": "house-user",
+    "color": "#fbc1c1",
     "transform": {
       "size": 6,
       "x": 0,
       "y": -2
-    }
+    },
+    "isImage": false
   },
-  "markerIcons": [],
+  "markerIcons": [
+    {
+      "type": "NPC",
+      "iconName": "user",
+      "color": "#b8f4e0",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,
   "notePreview": false,
-  "layerMarkers": true,
+  "layerMarkers": false,
   "previousVersion": "6.0.5",
   "version": {
     "major": 6,
@@ -56,9 +348,61 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": -1,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "550px",
+    "image": "[[saltmarsh-legends-labels.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[saltmarsh-legends-labels.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 5,
+    "minZoom": -2,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 0.09328358208955223,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "MapCalcExample",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        2550,
+        3338
+      ]
+    ],
+    "width": "95%",
+    "lat": 1275,
+    "long": 1669,
+    "unit": "mi",
+    "recenter": false,
+    "darkmode": false,
+    "filterTag": []
+  },
   "enableDraw": true,
-  "defaultUnitType": "imperial",
+  "defaultUnitType": "metric",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
   "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
   "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
