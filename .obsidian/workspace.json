@@ -550,8 +550,7 @@
       "templater-obsidian:Templater": false,
       "smart-connections:Open: Smart Chat": false,
       "smart-connections:Open: View Smart Connections": false,
-      "fantasy-content-generator:Fantasy Generators": false,
-      "calendarium:Open Calendarium": false
+      "fantasy-content-generator:Fantasy Generators": false
     }
   },
   "active": "45a028562d6f5383",
