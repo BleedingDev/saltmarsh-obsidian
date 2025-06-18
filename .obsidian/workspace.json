@@ -57,6 +57,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Interesting resources",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/Interesting resources.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Interesting resources\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Lokace - Saltmarsh (Město)",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - Saltmarsh (Město)\"}",
@@ -65,24 +71,12 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "0. Scratch Notes/Interesting resources.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "z_Assets/saltmarsh-legends-labels.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Interesting resources"
+              "icon": "lucide-image",
+              "title": "saltmarsh-legends-labels"
             }
           },
           {
@@ -185,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -553,10 +547,11 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "45a028562d6f5383",
+  "active": "fc75270a1c2273e3",
   "lastOpenFiles": [
-    "1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md",
     "z_Assets/saltmarsh-legends-labels.jpg",
+    "0. Scratch Notes/Interesting resources.md",
+    "1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md",
     "Test.md",
     "z_Assets/saltmarsh-old.png",
     "1. World Almanac/World/Saltmarsh/Lokace - Doly u Saltmarshe.md",
@@ -577,7 +572,6 @@
     "z_Assets/saltmarsh-legends.png",
     "z_Assets/saltmarsh-legends-desc.pdf",
     "z_Templates/Leaftllet.md",
-    "0. Scratch Notes/Interesting resources.md",
     "Excalidraw/Drawing 2025-06-14 00.01.15.excalidraw.md",
     "2. Session Journals/Preparations - Scenes/2. Kult v dole.md",
     "1. The Party/0. Cíle postav.md",
