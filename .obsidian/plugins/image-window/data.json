@@ -6,10 +6,10 @@
     "Second Window": {
       "hosts": {
         "Sathanovo": {
-          "x": -1292,
-          "y": -1451,
-          "width": 5142,
-          "height": 1462,
+          "x": -8,
+          "y": -8,
+          "width": 1722,
+          "height": 1082,
           "fullscreen": false,
           "maximized": true
         }

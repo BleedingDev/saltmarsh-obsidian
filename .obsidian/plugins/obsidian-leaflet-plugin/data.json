@@ -2,7 +2,8 @@
   "mapMarkers": [
     {
       "id": "MapCalcExample",
-      "lastAccessed": 1749859206748,
+      "locked": true,
+      "lastAccessed": 1750266373503,
       "markers": [
         {
           "id": "ID_cb7b3a183a48",
@@ -293,12 +294,114 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_8adb493a08da",
+          "type": "default",
+          "loc": [
+            1699.9583740234375,
+            947.6420738685279
+          ],
+          "link": "Lokace - Dwarven Anvil (Kovárna)",
+          "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9aa084818b8",
+          "type": "default",
+          "loc": [
+            974.625,
+            3059.049558041518
+          ],
+          "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Kasárna",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_580b9938296a",
+          "type": "default",
+          "loc": [
+            867.958251953125,
+            2003.6802635131585
+          ],
+          "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Strážní místo u přístavů",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_584a188a8819",
+          "type": "default",
+          "loc": [
+            587.9583740234375,
+            2557.679991216228
+          ],
+          "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Tržiště",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7828582ba869",
+          "type": "default",
+          "loc": [
+            1080.4591616530447,
+            1554.2089599246228
+          ],
+          "link": "Lokace - U Proutěné kozy (Hospoda)",
+          "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            7.449773324983213,
+            -6.779351602528908
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38a85ab9d8e8",
+          "type": "default",
+          "loc": [
+            840.9791870117188,
+            754.8243385345575
+          ],
+          "link": "Lokace - Starý Alchymistův dům (Saltmarsh)",
+          "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
       "files": [
-        "z_Templates/Leaflet map.md"
+        "1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md"
       ]
     }
   ],

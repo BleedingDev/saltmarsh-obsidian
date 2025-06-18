@@ -23,6 +23,7 @@ Manistrad Copperlocks je energická a schopná trpaslice, která dohlíží na n
 
 ## DM Poznámky / Háčky
 *   Doly by mohly narazit na něco neočekávaného a nebezpečného v hlubinách (staré ruiny, monstra, ložiska podivných minerálů).
+	* [[2. Kult v dole (hotovo)]]
 *   Mohla by mít informace o geologii regionu nebo o starých trpasličích osídleních v okolí.
 *   Její zaměření na efektivitu by ji mohlo vést k přehlížení některých environmentálních nebo sociálních dopadů těžby.
 *   [[Frakce - Scarlet Brotherhood]] by se mohlo snažit sabotovat doly, aby poškodilo zájmy koruny, nebo naopak získat kontrolu nad produkcí cenných kovů.

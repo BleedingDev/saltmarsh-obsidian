@@ -98,7 +98,9 @@
       "done_initial_scan": true,
       "done_import": true,
       "embedding_progress": true,
-      "missing_entity": true
+      "missing_entity": true,
+      "new_version_available": true,
+      "embedding_complete": true
     }
   },
   "version": "",

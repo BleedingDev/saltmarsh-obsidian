@@ -6,7 +6,7 @@
 Prázdná Síť (The Empty Net) je pochybná a omšelá hospoda v [[Lokace - Saltmarsh (Město)]], postavená na kůlech nad zátokou. Je známá jako místo setkávání drsnějších námořníků, pašeráků a dalších individuí, která se chtějí vyhnout pozornosti městské stráže nebo počestnějších občanů. Atmosféra je často zakouřená, hlučná a napjatá. Podnik páchne rybinou, levným alkoholem a zoufalstvím.
 
 ## Majitel a Personál
-*   **Majitel:** [[NPC - Kreb Shenker]] (bude vytvořen později) – nevrlý, ostražitý muž, který pravděpodobně ví o mnoha nelegálních aktivitách probíhajících pod jeho střechou (a možná se na nich i podílí).
+*   **Majitel:** [[NPC - Kreb Shenker]] – nevrlý, ostražitý muž, který pravděpodobně ví o mnoha nelegálních aktivitách probíhajících pod jeho střechou (a možná se na nich i podílí).
 *   Personál je pravděpodobně stejně drsný jako klientele.
 
 ## Klientela a Aktivity

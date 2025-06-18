@@ -8,17 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69fe96f8ffdc3a25",
+            "id": "bec522a5c01bb727",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "NPC - Manistrad Copperlocks",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Manistrad Copperlocks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Manistrad Copperlocks\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":45},\"to\":{\"line\":13,\"ch\":52}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -28,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Leaflet map.md",
+                "file": "1. World Almanac/World/Kronika Saltmarshe/Událost - Střet v přístavu (Saltmarsh).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +37,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Leaflet map"
+              "title": "Událost - Střet v přístavu (Saltmarsh)"
             }
           },
           {
@@ -54,6 +48,12 @@
               "stack": [
                 {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "saltmarsh-legends-labels",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/saltmarsh-legends-labels.jpg\"},\"icon\":\"lucide-image\",\"title\":\"saltmarsh-legends-labels\"}",
                   "eState": "{}"
                 },
                 {
@@ -71,12 +71,12 @@
               ]
             },
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "z_Assets/saltmarsh-legends-labels.jpg"
+                "file": "z_Assets/saltmarsh-legends-desc.pdf"
               },
-              "icon": "lucide-image",
-              "title": "saltmarsh-legends-labels"
+              "icon": "lucide-file-text",
+              "title": "saltmarsh-legends-desc"
             }
           },
           {
@@ -88,6 +88,108 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "NPC - Kreb Shenker",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Kreb Shenker.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Kreb Shenker\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":203},\"to\":{\"line\":5,\"ch\":203}},\"scroll\":0.2234463474841985}"
+                },
+                {
+                  "title": "Lokace - Prázdná Síť (Hospoda)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Saltmarsh/Lokace - Prázdná Síť (Hospoda).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - Prázdná Síť (Hospoda)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":28},\"to\":{\"line\":8,\"ch\":28}},\"scroll\":3.0169272422790527}"
+                },
+                {
+                  "title": "Brynja Tidebound",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Brynja Tidebound.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Brynja Tidebound\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":56},\"to\":{\"line\":18,\"ch\":56}},\"scroll\":2.850260575612386}"
+                },
+                {
+                  "title": "1. Startovní scéna",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/1. Startovní scéna.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"1. Startovní scéna\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":26},\"to\":{\"line\":25,\"ch\":26}},\"scroll\":9.898871898651123}"
+                },
+                {
+                  "title": "0. Nedávno se stalo",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/0. Nedávno se stalo.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"0. Nedávno se stalo\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":190},\"to\":{\"line\":2,\"ch\":190}}}"
+                },
+                {
+                  "title": "saltmarsh-old",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/saltmarsh-old.png\"},\"icon\":\"lucide-image\",\"title\":\"saltmarsh-old\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "2. Kult v dole (hotovo)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/2. Kult v dole (hotovo).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2. Kult v dole (hotovo)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":79},\"to\":{\"line\":36,\"ch\":79}},\"scroll\":15.799130993316796}"
+                },
+                {
+                  "title": "image-1",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/image-1.png\"},\"icon\":\"lucide-image\",\"title\":\"image-1\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "image",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/image.png\"},\"icon\":\"lucide-image\",\"title\":\"image\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "2. Kult v dole (hotovo)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/2. Kult v dole (hotovo).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2. Kult v dole (hotovo)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":90,\"ch\":28},\"to\":{\"line\":90,\"ch\":28}},\"scroll\":83.21149279575249}"
+                },
+                {
+                  "title": "0. Nedávno se stalo",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/0. Nedávno se stalo.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"0. Nedávno se stalo\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2. Kult v dole",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/2. Kult v dole.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2. Kult v dole\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
+                  "title": "0. Nedávno se stalo",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/0. Nedávno se stalo.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"0. Nedávno se stalo\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":2,\"ch\":190}}}"
+                },
+                {
+                  "title": "1. Startovní scéna",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/1. Startovní scéna.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"1. Startovní scéna\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":28,\"ch\":231}}}"
+                },
+                {
+                  "title": "2. Kult v dole",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/2. Kult v dole.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2. Kult v dole\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":21},\"to\":{\"line\":20,\"ch\":21}}}"
+                },
+                {
+                  "title": "catacombs-under-mines",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/catacombs-under-mines.png\"},\"icon\":\"lucide-image\",\"title\":\"catacombs-under-mines\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Lokace - Praskající vlasec (Hospoda)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Saltmarsh/Lokace - Praskající vlasec (Hospoda).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - Praskající vlasec (Hospoda)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "NPC - Sanbalet",
@@ -160,7 +262,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. World Almanac/World/Saltmarsh/Lokace - Praskající vlasec (Hospoda).md",
+                "file": "2. Mechanics/Non-Player Characters/NPC - Manistrad Copperlocks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -175,11 +277,224 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lokace - Praskající vlasec (Hospoda)"
+              "title": "NPC - Manistrad Copperlocks"
+            }
+          },
+          {
+            "id": "666dcc2dbd66c062",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "1. Startovní scéna",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/1. Startovní scéna.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"1. Startovní scéna\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":231},\"to\":{\"line\":32,\"ch\":231}},\"scroll\":17.262763890335123}"
+                },
+                {
+                  "title": "NPC - Wellgar Brinehanded",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Wellgar Brinehanded.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Wellgar Brinehanded\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":24},\"to\":{\"line\":5,\"ch\":24}},\"scroll\":0.5958569266245294}"
+                },
+                {
+                  "title": "NPC - Manistrad Copperlocks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Manistrad Copperlocks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Manistrad Copperlocks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":65},\"to\":{\"line\":9,\"ch\":65}},\"scroll\":5.645399252573649}"
+                },
+                {
+                  "title": "NPC - Gellan Primewater",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Gellan Primewater.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Gellan Primewater\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":56},\"to\":{\"line\":9,\"ch\":56}},\"scroll\":1.2669272422790527}"
+                },
+                {
+                  "title": "NPC - Ferrin Kastillar",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Ferrin Kastillar.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Ferrin Kastillar\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.004965474536520413}"
+                },
+                {
+                  "title": "Lokace - Saltmarsh (Město)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - Saltmarsh (Město)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":64,\"ch\":62},\"to\":{\"line\":64,\"ch\":62}},\"scroll\":50.099053914153885}"
+                },
+                {
+                  "title": "Lokace - U Proutěné kozy (Hospoda)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Saltmarsh/Lokace - U Proutěné kozy (Hospoda).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - U Proutěné kozy (Hospoda)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":84},\"to\":{\"line\":22,\"ch\":84}},\"scroll\":20.219416202839234}"
+                },
+                {
+                  "title": "Brynja Tidebound",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Brynja Tidebound.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Brynja Tidebound\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":243},\"to\":{\"line\":24,\"ch\":243}},\"scroll\":12.504557212193808}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Session Journals/Preparations - Scenes/2. Kult v dole (hotovo).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2. Kult v dole (hotovo)"
+            }
+          },
+          {
+            "id": "03fda924bfe0d1af",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "2. Kult v dole (hotovo)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/2. Kult v dole (hotovo).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2. Kult v dole (hotovo)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":47},\"to\":{\"line\":3,\"ch\":47}}}"
+                },
+                {
+                  "title": "Lokace - Saltmarsh (Město)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - Saltmarsh (Město)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":501},\"to\":{\"line\":29,\"ch\":501}}}"
+                },
+                {
+                  "title": "NPC - Wellgar Brinehanded",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Wellgar Brinehanded.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Wellgar Brinehanded\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":41},\"to\":{\"line\":14,\"ch\":41}}}"
+                },
+                {
+                  "title": "Vazba - Skjorn a Brynja - Společný chrám",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Vazby/Vazba - Skjorn a Brynja - Společný chrám.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Vazba - Skjorn a Brynja - Společný chrám\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":107},\"to\":{\"line\":3,\"ch\":107}}}"
+                },
+                {
+                  "title": "Vazba - Noll a Skjorn - Noc v cele",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Vazby/Vazba - Noll a Skjorn - Noc v cele.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Vazba - Noll a Skjorn - Noc v cele\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Lokace - Saltmarsh (Město)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - Saltmarsh (Město)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":201},\"to\":{\"line\":29,\"ch\":201}}}"
+                },
+                {
+                  "title": "Událost - Střet v přístavu (Saltmarsh)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Kronika Saltmarshe/Událost - Střet v přístavu (Saltmarsh).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Událost - Střet v přístavu (Saltmarsh)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "1. Startovní scéna",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/1. Startovní scéna.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"1. Startovní scéna\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":11},\"to\":{\"line\":25,\"ch\":11}},\"scroll\":15.37803856531779}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lokace - Saltmarsh (Město)"
+            }
+          },
+          {
+            "id": "084966e92ac046ca",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "1. Špinavá práce",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Sessions/1. Špinavá práce.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"1. Špinavá práce\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "1. Startovní scéna",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/1. Startovní scéna.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"1. Startovní scéna\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":22.712674299875896}"
+                },
+                {
+                  "title": "2. Kult v dole",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/2. Kult v dole.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2. Kult v dole\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Session Journals/Preparations - Scenes/2. Kult v dole (hotovo).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2. Kult v dole (hotovo)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -544,42 +859,49 @@
       "templater-obsidian:Templater": false,
       "smart-connections:Open: Smart Chat": false,
       "smart-connections:Open: View Smart Connections": false,
-      "fantasy-content-generator:Fantasy Generators": false
+      "fantasy-content-generator:Fantasy Generators": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "fc75270a1c2273e3",
+  "active": "666dcc2dbd66c062",
   "lastOpenFiles": [
-    "z_Assets/saltmarsh-legends-labels.jpg",
-    "0. Scratch Notes/Interesting resources.md",
+    "2. Session Journals/Sessions/1. Špinavá práce.md",
     "1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md",
-    "Test.md",
-    "z_Assets/saltmarsh-old.png",
-    "1. World Almanac/World/Saltmarsh/Lokace - Doly u Saltmarshe.md",
-    "1. World Almanac/World/Saltmarsh/Lokace - Praskající vlasec (Hospoda).md",
-    "2. Mechanics/Non-Player Characters/NPC - Sanbalet.md",
-    "2. Mechanics/Non-Player Characters/NPC - Růža (Hostinec U Proutěné kozy).md",
+    "2. Session Journals/Preparations - Scenes/2. Kult v dole (hotovo).md",
     "2. Mechanics/Non-Player Characters/NPC - Manistrad Copperlocks.md",
-    "2. Mechanics/Non-Player Characters/NPC - Mafera.md",
-    "2. Mechanics/Non-Player Characters/NPC - Maelen Croft.md",
-    "2. Mechanics/Non-Player Characters/NPC - Lankus Kurrid.md",
+    "2. Session Journals/Preparations - Scenes/1. Startovní scéna.md",
+    "2. Mechanics/Non-Player Characters/NPC - Kapitán Norgard.md",
+    "2. Mechanics/Non-Player Characters/NPC - Kapitán Zackary.md",
+    "2. Mechanics/Non-Player Characters/Untitled.md",
+    "2. Mechanics/Non-Player Characters/NPC - Wellgar Brinehanded.md",
+    "1. The Party/Vazby/Vazba - Noll a Brynja - Ztracený přítel.md",
     "2. Mechanics/Non-Player Characters/NPC - Kreb Shenker.md",
-    "2. Mechanics/Non-Player Characters/NPC - Eda Oweland.md",
-    "1. World Almanac/World/Okolí Saltmarshe/Lokace - Dreadwood (Les).md",
-    "2. Mechanics/Non-Player Characters/NPC - Eliander Fireborn.md",
-    "eli.md",
-    "z_Templates/Leaflet map.md",
-    "z_Assets/Pasted Image 20250614000148_779.png",
-    "z_Assets/saltmarsh-legends.png",
-    "z_Assets/saltmarsh-legends-desc.pdf",
-    "z_Templates/Leaftllet.md",
-    "Excalidraw/Drawing 2025-06-14 00.01.15.excalidraw.md",
+    "2. Session Journals/Sessions",
     "2. Session Journals/Preparations - Scenes/2. Kult v dole.md",
-    "1. The Party/0. Cíle postav.md",
-    "lL.md",
-    "z_Assets/scarlet-brotherhood.png",
-    "2. Session Journals/Preparations - Scenes/0. Nedávno se stalo.md",
+    "z_Assets/saltmarsh-legends-desc.pdf",
     "1. World Almanac/World/Kronika Saltmarshe/Událost - Střet v přístavu (Saltmarsh).md",
     "1. World Almanac/World/Saltmarsh/Lokace - Chrám Procana (Saltmarsh).md",
+    "1. World Almanac/World/Saltmarsh/Lokace - Prázdná Síť (Hospoda).md",
+    "1. The Party/Vazby/Vazba - Skjorn a Brynja - Společný chrám.md",
+    "1. The Party/Vazby/Vazba - Noll a Skjorn - Noc v cele.md",
+    "2. Mechanics/Non-Player Characters/NPC - Gellan Primewater.md",
+    "2. Mechanics/Non-Player Characters/NPC - Ferrin Kastillar.md",
+    "1. World Almanac/World/Saltmarsh/Lokace - U Proutěné kozy (Hospoda).md",
+    "2. Mechanics/Non-Player Characters/NPC - Eda Oweland.md",
+    "1. The Party/Brynja Tidebound.md",
+    "1. World Almanac/World/Saltmarsh/Lokace - Praskající vlasec (Hospoda).md",
+    "2. Mechanics/Non-Player Characters/NPC - Růža (Hostinec U Proutěné kozy).md",
+    "2. Mechanics/Non-Player Characters/NPC - Eliander Fireborn.md",
+    "z_Templates/Leaflet map.md",
+    "z_Assets/saltmarsh-legends-labels.jpg",
+    "z_Assets/saltmarsh-old.png",
+    "z_Assets/image-1.png",
+    "z_Assets/image.png",
+    "z_Assets/image-2.png",
+    "z_Assets/catacombs-under-mines.png",
+    "z_Assets/Pasted Image 20250614000148_779.png",
+    "z_Assets/saltmarsh-legends.png",
+    "z_Assets/scarlet-brotherhood.png",
     "2. Session Journals/Preparations - Scenes",
     "Excalidraw",
     "1. The Party/Vazby",
@@ -587,7 +909,6 @@
     "1. World Almanac/World/Historie Postav",
     "1. World Almanac/World/Ekonomika a Společnost",
     "1. World Almanac/World/Mystéria a Legendy",
-    "1. World Almanac/World/Okolí Saltmarshe",
-    "1. World Almanac/World/Pobřeží Keolandu"
+    "1. World Almanac/World/Okolí Saltmarshe"
   ]
 }

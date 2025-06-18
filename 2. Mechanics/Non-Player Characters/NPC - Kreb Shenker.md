@@ -3,7 +3,7 @@
 **Tagy:** #npc #člověk #hostinský #Saltmarsh_obyvatel #podsvětí_kontakt
 
 ## Popis
-Kreb Shenker je majitelem a provozovatelem pochybné hospody [[Lokace - Prázdná Síť (Hospoda)]] v [[Lokace - Saltmarsh (Město)]]. Je to pravděpodobně nevrlý, ostražitý a světem protřelý muž, který viděl a slyšel mnohé.
+Kreb Shenker je majitelem a provozovatelem pochybné hospody [[Lokace - Prázdná Síť (Hospoda)]] v [[Lokace - Saltmarsh (Město)]]. Je to nevrlý, ostražitý a světem protřelý muž, který viděl a slyšel mnohé.
 
 ## Role a Aktivity
 *   Vede [[Lokace - Prázdná Síť (Hospoda)]], stará se o objednávky a udržuje (velmi relativní) pořádek.
