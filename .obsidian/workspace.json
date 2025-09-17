@@ -70,13 +70,73 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "1. Startovní scéna",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/1. Startovní scéna.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"1. Startovní scéna\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "saltmarsh-legends-desc",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"z_Assets/saltmarsh-legends-desc.pdf\"},\"icon\":\"lucide-file-text\",\"title\":\"saltmarsh-legends-desc\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "saltmarsh-legends-labels",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/saltmarsh-legends-labels.jpg\"},\"icon\":\"lucide-image\",\"title\":\"saltmarsh-legends-labels\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "saltmarsh-old",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/saltmarsh-old.png\"},\"icon\":\"lucide-image\",\"title\":\"saltmarsh-old\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "scarlet-brotherhood",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/scarlet-brotherhood.png\"},\"icon\":\"lucide-image\",\"title\":\"scarlet-brotherhood\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "2. Kult v dole",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/2. Kult v dole.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2. Kult v dole\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "1. Startovní scéna",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/1. Startovní scéna.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"1. Startovní scéna\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.385416666666667}"
+                },
+                {
+                  "title": "Noll",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Noll.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Noll\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":77},\"to\":{\"line\":35,\"ch\":77}},\"scroll\":22.575367647058822}"
+                },
+                {
+                  "title": "Brynja Tidebound",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Brynja Tidebound.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Brynja Tidebound\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":172},\"to\":{\"line\":27,\"ch\":172}},\"scroll\":27.79482293155471}"
+                },
+                {
+                  "title": "Lokace - Praskající vlasec (Hospoda)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Saltmarsh/Lokace - Praskající vlasec (Hospoda).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - Praskající vlasec (Hospoda)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. World Almanac/World/Saltmarsh/Lokace - Praskající vlasec (Hospoda).md",
+                "file": "2. Session Journals/Preparations - Scenes/2. Kult v dole.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -91,7 +151,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lokace - Praskající vlasec (Hospoda)"
+              "title": "2. Kult v dole"
             }
           }
         ],
@@ -303,8 +363,8 @@
             "state": {
               "type": "CALENDARIUM",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
             }
           },
           {
@@ -322,8 +382,8 @@
             "state": {
               "type": "CALENDARIUM",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
             }
           },
           {
@@ -341,8 +401,8 @@
             "state": {
               "type": "CALENDARIUM",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
             }
           },
           {
@@ -360,8 +420,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
             }
           },
           {
@@ -379,8 +439,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -398,8 +458,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -433,8 +493,8 @@
                 },
                 "id": "ID_3a691ab8c9f9"
               },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
             }
           }
         ],
@@ -447,6 +507,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -461,18 +522,26 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "calendarium:Open Calendarium": false,
-      "fantasy-content-generator:Fantasy Generators": false
+      "fantasy-content-generator:Fantasy Generators": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": true
     }
   },
   "active": "fc75270a1c2273e3",
   "lastOpenFiles": [
+    "2. Session Journals/Preparations - Scenes/1. Startovní scéna.md",
+    "z_Assets/saltmarsh-legends-desc.pdf",
     "z_Assets/saltmarsh-legends-labels.jpg",
+    "z_Assets/saltmarsh-old.png",
+    "z_Assets/scarlet-brotherhood.png",
+    "2. Session Journals/Preparations - Scenes/2. Kult v dole.md",
+    "1. The Party/Noll.md",
+    "1. The Party/Brynja Tidebound.md",
+    "1. World Almanac/World/Saltmarsh/Lokace - Praskající vlasec (Hospoda).md",
     "0. Scratch Notes/Interesting resources.md",
     "1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md",
     "Test.md",
-    "z_Assets/saltmarsh-old.png",
     "1. World Almanac/World/Saltmarsh/Lokace - Doly u Saltmarshe.md",
-    "1. World Almanac/World/Saltmarsh/Lokace - Praskající vlasec (Hospoda).md",
     "2. Mechanics/Non-Player Characters/NPC - Sanbalet.md",
     "2. Mechanics/Non-Player Characters/NPC - Růža (Hostinec U Proutěné kozy).md",
     "2. Mechanics/Non-Player Characters/NPC - Manistrad Copperlocks.md",
@@ -487,16 +556,10 @@
     "z_Templates/Leaflet map.md",
     "z_Assets/Pasted Image 20250614000148_779.png",
     "z_Assets/saltmarsh-legends.png",
-    "z_Assets/saltmarsh-legends-desc.pdf",
     "z_Templates/Leaftllet.md",
     "Excalidraw/Drawing 2025-06-14 00.01.15.excalidraw.md",
-    "2. Session Journals/Preparations - Scenes/2. Kult v dole.md",
     "1. The Party/0. Cíle postav.md",
     "lL.md",
-    "z_Assets/scarlet-brotherhood.png",
-    "2. Session Journals/Preparations - Scenes/0. Nedávno se stalo.md",
-    "1. World Almanac/World/Kronika Saltmarshe/Událost - Střet v přístavu (Saltmarsh).md",
-    "1. World Almanac/World/Saltmarsh/Lokace - Chrám Procana (Saltmarsh).md",
     "2. Session Journals/Preparations - Scenes",
     "Excalidraw",
     "1. The Party/Vazby",
