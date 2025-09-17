@@ -72,6 +72,54 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Vault Maintenance Guide",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Vault Maintenance Guide.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Vault Maintenance Guide\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2. Kult v dole",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/2. Kult v dole.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2. Kult v dole\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "1. Startovní scéna",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/1. Startovní scéna.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"1. Startovní scéna\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "0. Nedávno se stalo",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/0. Nedávno se stalo.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"0. Nedávno se stalo\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sea Princes - Drby",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/Sea Princes - Drby.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Sea Princes - Drby\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scarlet Brotherhood - Zpívající vřeteno",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/Scarlet Brotherhood - Zpívající vřeteno.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Scarlet Brotherhood - Zpívající vřeteno\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Interesting resources",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/Interesting resources.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Interesting resources\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2. Kult v dole",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/2. Kult v dole.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2. Kult v dole\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":28},\"to\":{\"line\":11,\"ch\":28}}}"
+                },
+                {
                   "title": "1. Startovní scéna",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/1. Startovní scéna.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"1. Startovní scéna\"}",
@@ -529,16 +577,20 @@
   },
   "active": "fc75270a1c2273e3",
   "lastOpenFiles": [
+    "Vault Maintenance Guide.md",
+    "2. Session Journals/Preparations - Scenes/2. Kult v dole.md",
     "2. Session Journals/Preparations - Scenes/1. Startovní scéna.md",
+    "2. Session Journals/Preparations - Scenes/0. Nedávno se stalo.md",
+    "0. Scratch Notes/Sea Princes - Drby.md",
+    "0. Scratch Notes/Scarlet Brotherhood - Zpívající vřeteno.md",
+    "0. Scratch Notes/Interesting resources.md",
     "z_Assets/saltmarsh-legends-desc.pdf",
     "z_Assets/saltmarsh-legends-labels.jpg",
     "z_Assets/saltmarsh-old.png",
     "z_Assets/scarlet-brotherhood.png",
-    "2. Session Journals/Preparations - Scenes/2. Kult v dole.md",
     "1. The Party/Noll.md",
     "1. The Party/Brynja Tidebound.md",
     "1. World Almanac/World/Saltmarsh/Lokace - Praskající vlasec (Hospoda).md",
-    "0. Scratch Notes/Interesting resources.md",
     "1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md",
     "Test.md",
     "1. World Almanac/World/Saltmarsh/Lokace - Doly u Saltmarshe.md",
@@ -557,9 +609,6 @@
     "z_Assets/Pasted Image 20250614000148_779.png",
     "z_Assets/saltmarsh-legends.png",
     "z_Templates/Leaftllet.md",
-    "Excalidraw/Drawing 2025-06-14 00.01.15.excalidraw.md",
-    "1. The Party/0. Cíle postav.md",
-    "lL.md",
     "2. Session Journals/Preparations - Scenes",
     "Excalidraw",
     "1. The Party/Vazby",
