@@ -848,7 +848,7 @@
     "hiddenItems": {
       "bases:Create new base": false,
       "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Connections: Open random connection": true,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -861,7 +861,8 @@
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "smart-connections:Open: Smart Chat": false,
-      "fantasy-content-generator:Fantasy Generators": false
+      "fantasy-content-generator:Fantasy Generators": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "666dcc2dbd66c062",
