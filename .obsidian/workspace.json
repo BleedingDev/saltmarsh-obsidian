@@ -83,11 +83,53 @@
             "id": "fc75270a1c2273e3",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Lokace - U Proutěné kozy (Hospoda)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Saltmarsh/Lokace - U Proutěné kozy (Hospoda).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - U Proutěné kozy (Hospoda)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Lokace - Prázdná Síť (Hospoda)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Saltmarsh/Lokace - Prázdná Síť (Hospoda).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - Prázdná Síť (Hospoda)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Lokace - Dwarven Anvil (Kovárna)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Saltmarsh/Lokace - Dwarven Anvil (Kovárna).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - Dwarven Anvil (Kovárna)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Lokace - Praskající vlasec (Hospoda)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Saltmarsh/Lokace - Praskající vlasec (Hospoda).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - Praskající vlasec (Hospoda)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Lokace - Doly u Saltmarshe",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Saltmarsh/Lokace - Doly u Saltmarshe.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - Doly u Saltmarshe\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Lokace - Chrám Procana (Saltmarsh)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Saltmarsh/Lokace - Chrám Procana (Saltmarsh).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - Chrám Procana (Saltmarsh)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "NPC - Manistrad Copperlocks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Manistrad Copperlocks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Manistrad Copperlocks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 },
                 {
                   "title": "NPC - Kreb Shenker",
@@ -262,7 +304,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Mechanics/Non-Player Characters/NPC - Manistrad Copperlocks.md",
+                "file": "1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -277,88 +319,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NPC - Manistrad Copperlocks"
-            }
-          },
-          {
-            "id": "666dcc2dbd66c062",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "1. Startovní scéna",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/1. Startovní scéna.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"1. Startovní scéna\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":231},\"to\":{\"line\":32,\"ch\":231}},\"scroll\":17.262763890335123}"
-                },
-                {
-                  "title": "NPC - Wellgar Brinehanded",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Wellgar Brinehanded.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Wellgar Brinehanded\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":24},\"to\":{\"line\":5,\"ch\":24}},\"scroll\":0.5958569266245294}"
-                },
-                {
-                  "title": "NPC - Manistrad Copperlocks",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Manistrad Copperlocks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Manistrad Copperlocks\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":65},\"to\":{\"line\":9,\"ch\":65}},\"scroll\":5.645399252573649}"
-                },
-                {
-                  "title": "NPC - Gellan Primewater",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Gellan Primewater.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Gellan Primewater\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":56},\"to\":{\"line\":9,\"ch\":56}},\"scroll\":1.2669272422790527}"
-                },
-                {
-                  "title": "NPC - Ferrin Kastillar",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Ferrin Kastillar.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Ferrin Kastillar\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.004965474536520413}"
-                },
-                {
-                  "title": "Lokace - Saltmarsh (Město)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - Saltmarsh (Město)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":64,\"ch\":62},\"to\":{\"line\":64,\"ch\":62}},\"scroll\":50.099053914153885}"
-                },
-                {
-                  "title": "Lokace - U Proutěné kozy (Hospoda)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Saltmarsh/Lokace - U Proutěné kozy (Hospoda).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - U Proutěné kozy (Hospoda)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":84},\"to\":{\"line\":22,\"ch\":84}},\"scroll\":20.219416202839234}"
-                },
-                {
-                  "title": "Brynja Tidebound",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Brynja Tidebound.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Brynja Tidebound\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":243},\"to\":{\"line\":24,\"ch\":243}},\"scroll\":12.504557212193808}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Session Journals/Preparations - Scenes/2. Kult v dole (hotovo).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2. Kult v dole (hotovo)"
+              "title": "Lokace - Saltmarsh (Město)"
             }
           },
           {
@@ -369,6 +330,24 @@
               "stack": [
                 {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "NPC - Eliander Fireborn",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Non-Player Characters/NPC - Eliander Fireborn.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"NPC - Eliander Fireborn\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":3},\"to\":{\"line\":6,\"ch\":3}}}"
+                },
+                {
+                  "title": "Frakce - Loajalisté (Saltmarsh)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Guilds and Groups/Frakce - Loajalisté (Saltmarsh).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Frakce - Loajalisté (Saltmarsh)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
                   "eState": "{}"
                 },
                 {
@@ -435,7 +414,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -806,15 +785,24 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "03fda924bfe0d1af",
+  "active": "45a028562d6f5383",
   "lastOpenFiles": [
-    "Untitled.base",
-    "Excalidraw/Drawing 2026-07-08 13.08.08.excalidraw.md",
-    "2. Session Journals/Preparations - Scenes/2. Kult v dole (hotovo).md",
-    "Excalidraw",
     "1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md",
     "z_Assets/saltmarsh-legends-desc.pdf",
+    "2. Mechanics/Non-Player Characters/NPC - Eliander Fireborn.md",
+    "1. World Almanac/World/Saltmarsh/Lokace - U Proutěné kozy (Hospoda).md",
+    "2. Mechanics/Guilds and Groups/Frakce - Loajalisté (Saltmarsh).md",
+    "1. World Almanac/World/Kronika Saltmarshe/Událost - Střet v přístavu (Saltmarsh).md",
+    "2. Session Journals/Preparations - Scenes/2. Kult v dole (hotovo).md",
+    "1. World Almanac/World/Saltmarsh/Lokace - Prázdná Síť (Hospoda).md",
+    "1. World Almanac/World/Saltmarsh/Lokace - Dwarven Anvil (Kovárna).md",
+    "1. World Almanac/World/Saltmarsh/Lokace - Praskající vlasec (Hospoda).md",
+    "1. World Almanac/World/Saltmarsh/Lokace - Doly u Saltmarshe.md",
+    "1. World Almanac/World/Saltmarsh/Lokace - Chrám Procana (Saltmarsh).md",
     "2. Mechanics/Non-Player Characters/NPC - Manistrad Copperlocks.md",
+    "Untitled.base",
+    "Excalidraw/Drawing 2026-07-08 13.08.08.excalidraw.md",
+    "Excalidraw",
     "1. World Almanac/World/Kronika Saltmarshe/Plot Hook - Zigina skrytá agenda - Hledání pro pomstu.md",
     "z_Bases/Vault Index.base",
     "z_Bases",
@@ -828,17 +816,8 @@
     "2. Mechanics/Non-Player Characters/NPC - Kreb Shenker.md",
     "2. Session Journals/Sessions",
     "2. Session Journals/Preparations - Scenes/2. Kult v dole.md",
-    "1. World Almanac/World/Kronika Saltmarshe/Událost - Střet v přístavu (Saltmarsh).md",
-    "1. World Almanac/World/Saltmarsh/Lokace - Chrám Procana (Saltmarsh).md",
-    "1. World Almanac/World/Saltmarsh/Lokace - Prázdná Síť (Hospoda).md",
     "1. The Party/Vazby/Vazba - Skjorn a Brynja - Společný chrám.md",
     "1. The Party/Vazby/Vazba - Noll a Skjorn - Noc v cele.md",
-    "2. Mechanics/Non-Player Characters/NPC - Gellan Primewater.md",
-    "2. Mechanics/Non-Player Characters/NPC - Ferrin Kastillar.md",
-    "1. World Almanac/World/Saltmarsh/Lokace - U Proutěné kozy (Hospoda).md",
-    "2. Mechanics/Non-Player Characters/NPC - Eda Oweland.md",
-    "1. The Party/Brynja Tidebound.md",
-    "1. World Almanac/World/Saltmarsh/Lokace - Praskající vlasec (Hospoda).md",
     "z_Assets/saltmarsh-legends-labels.jpg",
     "z_Assets/saltmarsh-old.png",
     "z_Assets/image-1.png",
