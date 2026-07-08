@@ -1,12 +1,10 @@
-# Lokace - Dwarven Anvil (Kovárna)
-
 **Tagy:** #lokace #kovárna #Saltmarsh_lokace #řemeslo
 
 ## Popis
 Dwarven Anvil (Trpasličí kovadlina) je hlavní a nejrespektovanější kovárna v [[Lokace - Saltmarsh (Město)]]. Je známá kvalitou své práce, i když nemusí být nutně vedena trpaslíky, název odkazuje na trvanlivost a zručnost spojovanou s trpasličím řemeslem. Vyrábějí a opravují zde širokou škálu kovových výrobků, od nástrojů a podkov po zbraně a zbroje.
 
 ## Majitelka a Personál
-*   **Majitelka:** [[NPC - Mafera]] (bude vytvořena později) – Flannská žena, jejíž syn Jasker je jejím nejlepším tovaryšem. (Podle Campaign-2 materiálu).
+*   **Majitelka:** [[NPC - Mafera]] – Flannská žena, jejíž syn Jasker je jejím nejlepším tovaryšem. (Podle Campaign-2 materiálu).
 *   Další tovaryši a učedníci.
 
 ## Význam pro Postavy

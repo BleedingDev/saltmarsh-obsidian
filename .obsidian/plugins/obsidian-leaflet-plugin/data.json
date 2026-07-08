@@ -3,7 +3,7 @@
     {
       "id": "MapCalcExample",
       "locked": true,
-      "lastAccessed": 1750266373503,
+      "lastAccessed": 1761768796328,
       "markers": [
         {
           "id": "ID_cb7b3a183a48",
@@ -396,13 +396,43 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_793a19ab9af8",
+          "type": "default",
+          "loc": [
+            642.6015625,
+            2716.5137719821278
+          ],
+          "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Mrtvá schránka 1",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_993918b9b9b9",
+          "type": "default",
+          "loc": [
+            1792.22265625,
+            1429.9247825985954
+          ],
+          "layer": "%5B%5Bsaltmarsh-legends-labels.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Mrtvá schránka - urgence",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
-      "files": [
-        "1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md"
-      ]
+      "files": []
     }
   ],
   "defaultMarker": {

@@ -34,7 +34,7 @@ Atmosféra ve městě je prosycena vůní moře, ryb, dehtu a kouře. Uličky js
 ## Klíčové Oblasti a Podlokace
 (Tato sekce bude obsahovat linky na specifické lokace v Saltmarshi, jakmile budou vytvořeny)
 *   Přístav a Rybí trh
-*   Městská rada
+*   Městská rada - [[NPC - Anders Solmor]], [[NPC - Eliander Fireborn]], [[NPC - Manistrad Copperlocks]], [[NPC - Eda Oweland]], [[NPC - Gellan Primewater]].
 *   [[Lokace - Chrám Procana (Saltmarsh)]]
 *   Hospody:
     *   [[Lokace - Prázdná Síť (Hospoda)]]
