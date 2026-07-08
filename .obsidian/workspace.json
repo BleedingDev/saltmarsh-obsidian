@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Leaflet map",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Leaflet map.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Leaflet map\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Leaflet map.md",
+                "file": "2. Session Journals/Preparations - Scenes/2. Kult v dole.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Leaflet map"
+              "title": "2. Kult v dole"
             }
           },
           {
@@ -49,16 +55,40 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "2. Kult v dole",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/2. Kult v dole.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2. Kult v dole\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":218,\"ch\":45},\"to\":{\"line\":218,\"ch\":45}},\"scroll\":52.5}"
+                },
+                {
+                  "title": "saltmarsh-legends-labels",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/saltmarsh-legends-labels.jpg\"},\"icon\":\"lucide-image\",\"title\":\"saltmarsh-legends-labels\"}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "z_Assets/saltmarsh-legends-labels.jpg"
+                "file": "2. Session Journals/Preparations - Scenes/1. Startovní scéna.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "saltmarsh-legends-labels"
+              "icon": "lucide-file",
+              "title": "1. Startovní scéna"
             }
           },
           {
@@ -70,6 +100,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "2. Kult v dole",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/2. Kult v dole.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2. Kult v dole\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":43},\"to\":{\"line\":19,\"ch\":43}}}"
                 },
                 {
                   "title": "Vault Maintenance Guide",
@@ -184,7 +220,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Session Journals/Preparations - Scenes/2. Kult v dole.md",
+                "file": "2. Session Journals/Preparations - Scenes/1. Startovní scéna.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -199,11 +235,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. Kult v dole"
+              "title": "1. Startovní scéna"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -575,17 +610,18 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "fc75270a1c2273e3",
+  "active": "69fe96f8ffdc3a25",
   "lastOpenFiles": [
-    "Vault Maintenance Guide.md",
-    "2. Session Journals/Preparations - Scenes/2. Kult v dole.md",
+    "z_Templates/Leaflet map.md",
     "2. Session Journals/Preparations - Scenes/1. Startovní scéna.md",
+    "2. Session Journals/Preparations - Scenes/2. Kult v dole.md",
+    "z_Assets/saltmarsh-legends-labels.jpg",
+    "Vault Maintenance Guide.md",
     "2. Session Journals/Preparations - Scenes/0. Nedávno se stalo.md",
     "0. Scratch Notes/Sea Princes - Drby.md",
     "0. Scratch Notes/Scarlet Brotherhood - Zpívající vřeteno.md",
     "0. Scratch Notes/Interesting resources.md",
     "z_Assets/saltmarsh-legends-desc.pdf",
-    "z_Assets/saltmarsh-legends-labels.jpg",
     "z_Assets/saltmarsh-old.png",
     "z_Assets/scarlet-brotherhood.png",
     "1. The Party/Noll.md",
@@ -605,10 +641,8 @@
     "1. World Almanac/World/Okolí Saltmarshe/Lokace - Dreadwood (Les).md",
     "2. Mechanics/Non-Player Characters/NPC - Eliander Fireborn.md",
     "eli.md",
-    "z_Templates/Leaflet map.md",
     "z_Assets/Pasted Image 20250614000148_779.png",
     "z_Assets/saltmarsh-legends.png",
-    "z_Templates/Leaftllet.md",
     "2. Session Journals/Preparations - Scenes",
     "Excalidraw",
     "1. The Party/Vazby",
