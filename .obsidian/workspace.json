@@ -372,6 +372,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Lokace - Saltmarsh (Město)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - Saltmarsh (Město)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":159},\"to\":{\"line\":29,\"ch\":159}},\"scroll\":5.776504297994269}"
+                },
+                {
                   "title": "2. Kult v dole (hotovo)",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/2. Kult v dole (hotovo).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2. Kult v dole (hotovo)\"}",
@@ -422,79 +428,14 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lokace - Saltmarsh (Město)"
-            }
-          },
-          {
-            "id": "084966e92ac046ca",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "1. Špinavá práce",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Sessions/1. Špinavá práce.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"1. Špinavá práce\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "1. Startovní scéna",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/1. Startovní scéna.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"1. Startovní scéna\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":22.712674299875896}"
-                },
-                {
-                  "title": "2. Kult v dole",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Session Journals/Preparations - Scenes/2. Kult v dole.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2. Kult v dole\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Session Journals/Preparations - Scenes/2. Kult v dole (hotovo).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2. Kult v dole (hotovo)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -760,7 +701,7 @@
               "type": "smart-connections-view",
               "state": {},
               "icon": "smart-connections",
-              "title": "Smart Connections"
+              "title": "Connections"
             }
           },
           {
@@ -837,7 +778,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -865,15 +806,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "666dcc2dbd66c062",
+  "active": "03fda924bfe0d1af",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Excalidraw/Drawing 2026-07-08 13.08.08.excalidraw.md",
+    "2. Session Journals/Preparations - Scenes/2. Kult v dole (hotovo).md",
+    "Excalidraw",
+    "1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md",
+    "z_Assets/saltmarsh-legends-desc.pdf",
+    "2. Mechanics/Non-Player Characters/NPC - Manistrad Copperlocks.md",
     "1. World Almanac/World/Kronika Saltmarshe/Plot Hook - Zigina skrytá agenda - Hledání pro pomstu.md",
     "z_Bases/Vault Index.base",
     "z_Bases",
     "2. Session Journals/Sessions/1. Špinavá práce.md",
-    "1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md",
-    "2. Session Journals/Preparations - Scenes/2. Kult v dole (hotovo).md",
-    "2. Mechanics/Non-Player Characters/NPC - Manistrad Copperlocks.md",
     "2. Session Journals/Preparations - Scenes/1. Startovní scéna.md",
     "2. Mechanics/Non-Player Characters/NPC - Kapitán Norgard.md",
     "2. Mechanics/Non-Player Characters/NPC - Kapitán Zackary.md",
@@ -883,7 +828,6 @@
     "2. Mechanics/Non-Player Characters/NPC - Kreb Shenker.md",
     "2. Session Journals/Sessions",
     "2. Session Journals/Preparations - Scenes/2. Kult v dole.md",
-    "z_Assets/saltmarsh-legends-desc.pdf",
     "1. World Almanac/World/Kronika Saltmarshe/Událost - Střet v přístavu (Saltmarsh).md",
     "1. World Almanac/World/Saltmarsh/Lokace - Chrám Procana (Saltmarsh).md",
     "1. World Almanac/World/Saltmarsh/Lokace - Prázdná Síť (Hospoda).md",
@@ -895,8 +839,6 @@
     "2. Mechanics/Non-Player Characters/NPC - Eda Oweland.md",
     "1. The Party/Brynja Tidebound.md",
     "1. World Almanac/World/Saltmarsh/Lokace - Praskající vlasec (Hospoda).md",
-    "2. Mechanics/Non-Player Characters/NPC - Růža (Hostinec U Proutěné kozy).md",
-    "2. Mechanics/Non-Player Characters/NPC - Eliander Fireborn.md",
     "z_Assets/saltmarsh-legends-labels.jpg",
     "z_Assets/saltmarsh-old.png",
     "z_Assets/image-1.png",
@@ -907,10 +849,8 @@
     "z_Assets/saltmarsh-legends.png",
     "z_Assets/scarlet-brotherhood.png",
     "2. Session Journals/Preparations - Scenes",
-    "Excalidraw",
     "1. The Party/Vazby",
     "1. World Almanac/World/Kronika Saltmarshe",
-    "1. World Almanac/World/Historie Postav",
-    "1. World Almanac/World/Ekonomika a Společnost"
+    "1. World Almanac/World/Historie Postav"
   ]
 }
