@@ -1,3 +1,9 @@
+---
+entity_type: relationship
+tags:
+  - entity/relationship
+  - campaign/party
+---
 # Vazba - Noll a Brynja - Ztracený přítel
 
 **Tagy:** #vazba_pc #Noll_vazba #Brynja_vazba #minulost #pašeráctví #sdílená_zkušenost #zrada

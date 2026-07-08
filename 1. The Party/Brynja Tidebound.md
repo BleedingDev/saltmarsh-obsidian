@@ -1,3 +1,10 @@
+---
+entity_type: pc
+tags:
+  - entity/pc
+  - entity/character
+  - campaign/party
+---
 # Brynja Tidebound
 
 **Tagy:** #PC #člověk #námořník #Saltmarsh_obyvatel

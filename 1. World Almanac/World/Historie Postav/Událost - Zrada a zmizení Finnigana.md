@@ -1,3 +1,8 @@
+---
+entity_type: event
+tags:
+  - entity/event
+---
 # Událost - Zrada a zmizení Finnigana
 
 **Tagy:** #událost #minulost #pašeráctví #zrada #Saltmarsh #Noll_vazba #Brynja_vazba

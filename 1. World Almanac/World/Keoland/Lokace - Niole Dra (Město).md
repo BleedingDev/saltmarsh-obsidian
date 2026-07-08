@@ -1,3 +1,8 @@
+---
+entity_type: location
+tags:
+  - entity/location
+---
 # Lokace - Niole Dra (Město)
 
 **Tagy:** #lokace #město #Keoland_hlavní_město #metropole

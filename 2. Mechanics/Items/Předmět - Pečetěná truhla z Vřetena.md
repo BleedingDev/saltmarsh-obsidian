@@ -1,3 +1,8 @@
+---
+entity_type: item
+tags:
+  - entity/item
+---
 # Předmět - Pečetěná truhla z Vřetena
 
 **Tagy:** #předmět #artefakt_questový #magický #nebezpečný #Zpívající_Vřeteno

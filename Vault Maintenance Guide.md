@@ -1,3 +1,9 @@
+---
+entity_type: guide
+tags:
+  - entity/guide
+  - system/guide
+---
 # The Obsidian Vault Operator's Guide
 
 This guide outlines the principles and procedures for maintaining this TTRPG vault. Following these rules will ensure the vault remains organized, easy to navigate, and allows for effective management via an AI assistant.
@@ -68,3 +74,31 @@ These are the rules the AI must follow when managing this Obsidian Vault.
 - **Guess File Paths:** Adhere strictly to the defined structure.
 - **Overwrite Content Without Permission:** Always prefer to `append` or `patch` information. Ask before replacing content.
 - **Delete Without Confirmation:** Always state the full file path and ask for explicit confirmation before deleting.
+---
+
+## Graph Entity Categories
+
+Campaign notes use `entity_type` as the primary category and `entity/...` tags for Obsidian Graph coloring.
+
+Use these Graph group queries:
+
+| Entity | Query |
+| --- | --- |
+| BBEG | `tag:#entity/bbeg` |
+| Player characters | `tag:#entity/pc` |
+| NPCs | `tag:#entity/npc` |
+| Locations | `tag:#entity/location` |
+| Factions | `tag:#entity/faction` |
+| Plot hooks | `tag:#entity/plot-hook` |
+| Events | `tag:#entity/event` |
+| Relationships | `tag:#entity/relationship` |
+| Concepts | `tag:#entity/concept` |
+| Sessions | `tag:#entity/session` |
+| Prep scenes | `tag:#entity/scene` |
+| Items | `tag:#entity/item` |
+| Deities | `tag:#entity/deity` |
+| Drawings | `tag:#entity/drawing` |
+| Scratch notes | `tag:#entity/scratch` |
+| Guide/support notes | `tag:#entity/guide` |
+
+Templates in `z_Templates` are intentionally excluded from the default Graph filter instead of receiving template metadata, so new notes copied from templates do not inherit template tags.

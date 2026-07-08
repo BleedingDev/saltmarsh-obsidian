@@ -1,3 +1,10 @@
+---
+entity_type: pc
+tags:
+  - entity/pc
+  - entity/character
+  - campaign/party
+---
 # Skjorn Pupíček Kostitel
 
 **Tagy:** #PC #ork #rváč #Saltmarsh_příchozí

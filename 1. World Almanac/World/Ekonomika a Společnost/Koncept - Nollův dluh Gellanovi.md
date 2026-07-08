@@ -1,3 +1,8 @@
+---
+entity_type: concept
+tags:
+  - entity/concept
+---
 # Koncept - Nollův dluh Gellanovi
 
 **Tagy:** #koncept #dluh #závazek #Noll_zápletka #Gellan_Primewater

@@ -1,3 +1,8 @@
+---
+entity_type: faction
+tags:
+  - entity/faction
+---
 # Frakce - Splintered Mind
 
 **Tagy:** #frakce #tajná_organizace #psionici #mniši #kontrašpionáž #nepřátelé_bratrstva

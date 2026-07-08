@@ -1,3 +1,8 @@
+---
+entity_type: location
+tags:
+  - entity/location
+---
 # Lokace - Winston's Store (Obchod)
 
 **Tagy:** #lokace #obchod #Saltmarsh_lokace #zásoby

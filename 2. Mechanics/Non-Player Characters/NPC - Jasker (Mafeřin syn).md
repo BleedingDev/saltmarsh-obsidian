@@ -1,3 +1,9 @@
+---
+entity_type: npc
+tags:
+  - entity/npc
+  - entity/character
+---
 # NPC - Jasker (Mafeřin syn)
 
 **Tagy:** #npc #člověk #kovář_tovaryš #Saltmarsh_obyvatel #Flannae

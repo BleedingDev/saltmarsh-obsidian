@@ -1,3 +1,11 @@
+---
+entity_type: npc
+entity_subtype: bbeg
+tags:
+  - entity/bbeg
+  - entity/npc
+  - entity/character
+---
 # BBEG - Tharizdun
 
 **Tagy:** #BBEG #božstvo_zlé #entita_kosmická #Chained_God #Elder_Elemental_Eye

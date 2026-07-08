@@ -1,3 +1,9 @@
+---
+entity_type: plot_hook
+tags:
+  - entity/plot-hook
+  - campaign/plot-hook
+---
 # Plot Hook - Zigina skrytá agenda - Hledání pro pomstu
 
 **Tagy:** #plot_hook #Zig_potenciál #tajemství #pomsta #Niole_Dra_minulost #TODO_rozpracovat

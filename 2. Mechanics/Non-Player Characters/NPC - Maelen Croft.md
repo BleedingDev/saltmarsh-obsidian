@@ -1,3 +1,9 @@
+---
+entity_type: npc
+tags:
+  - entity/npc
+  - entity/character
+---
 # NPC - Maelen Croft
 
 **Tagy:** #npc #člověk #kapitán_pašerák #status_ztracen

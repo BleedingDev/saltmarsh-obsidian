@@ -1,3 +1,9 @@
+---
+entity_type: npc
+tags:
+  - entity/npc
+  - entity/character
+---
 # NPC - Wellgar Brinehanded
 
 **Tagy:** #npc #člověk #kněz_Procana #Saltmarsh_obyvatel

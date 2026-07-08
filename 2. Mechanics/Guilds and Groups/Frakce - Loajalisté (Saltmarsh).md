@@ -1,3 +1,8 @@
+---
+entity_type: faction
+tags:
+  - entity/faction
+---
 # Frakce - Loajalisté (Saltmarsh)
 
 **Tagy:** #frakce #politická_frakce #Saltmarsh #pro_královská

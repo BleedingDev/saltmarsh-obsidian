@@ -1,3 +1,10 @@
+---
+entity_type: pc
+tags:
+  - entity/pc
+  - entity/character
+  - campaign/party
+---
 # Zig
 
 **Tagy:** #PC #člověk #kovářka #přestrojení_muž

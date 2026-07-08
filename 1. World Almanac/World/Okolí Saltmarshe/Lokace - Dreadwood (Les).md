@@ -1,3 +1,8 @@
+---
+entity_type: location
+tags:
+  - entity/location
+---
 # Lokace - Dreadwood (Les)
 
 **Tagy:** #lokace #les #divočina #Saltmarsh_okolí #původ_Skjorna

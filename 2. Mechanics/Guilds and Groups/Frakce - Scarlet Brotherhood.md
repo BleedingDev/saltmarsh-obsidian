@@ -1,3 +1,8 @@
+---
+entity_type: faction
+tags:
+  - entity/faction
+---
 # Frakce - Scarlet Brotherhood
 
 **Tagy:** #frakce #tajná_organizace #politická_manipulace #Suel_nadřazenost #Saltmarsh_hrozba

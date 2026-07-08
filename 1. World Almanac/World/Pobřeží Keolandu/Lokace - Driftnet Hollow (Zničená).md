@@ -1,3 +1,8 @@
+---
+entity_type: location
+tags:
+  - entity/location
+---
 # Lokace - Driftnet Hollow (Zničená)
 
 **Tagy:** #lokace #ruiny #osada_rybářská #zničeno #původ_Brynji #tajemství_moře

@@ -1,3 +1,9 @@
+---
+entity_type: npc
+tags:
+  - entity/npc
+  - entity/character
+---
 # NPC - Eliander Fireborn
 
 **Tagy:** #npc #člověk #voják #stráž_kapitán #Saltmarsh_radní #Loajalista_vůdce

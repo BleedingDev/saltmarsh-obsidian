@@ -1,3 +1,8 @@
+---
+entity_type: event
+tags:
+  - entity/event
+---
 # Událost - Kraken vs Krakatice (Vize/Proroctví)
 
 **Tagy:** #událost #vize #proroctví #kosmický_konflikt #mořské_bytosti #záhada

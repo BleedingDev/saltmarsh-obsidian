@@ -1,3 +1,9 @@
+---
+entity_type: npc
+tags:
+  - entity/npc
+  - entity/character
+---
 # NPC - Ferrin Kastillar
 
 **Tagy:** #npc #halfling #druid #Saltmarsh_obyvatel #ObadHai

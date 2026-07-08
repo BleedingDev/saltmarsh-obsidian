@@ -1,1 +1,7 @@
+---
+entity_type: scratch
+tags:
+  - entity/scratch
+  - workflow/scratch
+---
 Lidé se obávají Sea Princes, ale neví, že ve skutečnosti tam proběhl převrat a v jejich zemi aktuálně vládne [[Frakce - Scarlet Brotherhood]].

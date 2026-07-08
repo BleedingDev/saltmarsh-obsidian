@@ -1,3 +1,8 @@
+---
+entity_type: location
+tags:
+  - entity/location
+---
 # Lokace - Prázdná Síť (Hospoda)
 
 **Tagy:** #lokace #hospoda #Saltmarsh_lokace #podsvětí_místo

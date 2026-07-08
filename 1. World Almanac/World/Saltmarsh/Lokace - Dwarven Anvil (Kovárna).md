@@ -1,3 +1,8 @@
+---
+entity_type: location
+tags:
+  - entity/location
+---
 **Tagy:** #lokace #kovárna #Saltmarsh_lokace #řemeslo
 
 ## Popis

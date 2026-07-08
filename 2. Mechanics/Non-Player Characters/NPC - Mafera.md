@@ -1,3 +1,9 @@
+---
+entity_type: npc
+tags:
+  - entity/npc
+  - entity/character
+---
 # NPC - Mafera
 
 **Tagy:** #npc #člověk #kovářka_mistryně #Saltmarsh_obyvatel #Flannae

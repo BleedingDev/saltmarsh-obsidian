@@ -1,3 +1,8 @@
+---
+entity_type: deity
+tags:
+  - entity/deity
+---
 # Deita - Procan
 
 **Tagy:** #deita #námořní_bůh #bouře #navigace #Saltmarsh_víra

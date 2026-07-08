@@ -1,3 +1,9 @@
+---
+entity_type: npc
+tags:
+  - entity/npc
+  - entity/character
+---
 # NPC - Krag (Hrobník)
 
 **Tagy:** #npc #půlork #hrobník #loremaster #Saltmarsh_obyvatel

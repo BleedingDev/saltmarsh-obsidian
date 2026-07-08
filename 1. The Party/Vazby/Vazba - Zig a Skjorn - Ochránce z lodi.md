@@ -1,3 +1,9 @@
+---
+entity_type: relationship
+tags:
+  - entity/relationship
+  - campaign/party
+---
 # Vazba - Zig a Skjorn - Ochránce z lodi
 
 **Tagy:** #vazba_pc #Zig_vazba #Skjorn_vazba #minulost #plavba_lodí

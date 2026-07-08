@@ -1,3 +1,9 @@
+---
+entity_type: npc
+tags:
+  - entity/npc
+  - entity/character
+---
 # NPC - Gellan Primewater
 
 **Tagy:** #npc #člověk #obchodník #Saltmarsh_radní #Tradicionalista_podpora #pašerák_šéf

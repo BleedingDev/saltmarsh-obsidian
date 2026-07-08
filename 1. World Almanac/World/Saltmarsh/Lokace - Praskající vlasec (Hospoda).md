@@ -1,3 +1,8 @@
+---
+entity_type: location
+tags:
+  - entity/location
+---
 # Lokace - Praskající vlasec (Hospoda)
 
 **Tagy:** #lokace #hospoda #Saltmarsh_lokace #námořníci

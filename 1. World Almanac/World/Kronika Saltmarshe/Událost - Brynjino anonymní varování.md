@@ -1,3 +1,8 @@
+---
+entity_type: event
+tags:
+  - entity/event
+---
 # Událost - Brynjino anonymní varování
 
 **Tagy:** #událost #aktuální #Saltmarsh #tajemství #Brynja_zápletka

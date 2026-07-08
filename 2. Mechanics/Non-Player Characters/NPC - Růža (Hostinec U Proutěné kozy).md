@@ -1,3 +1,9 @@
+---
+entity_type: npc
+tags:
+  - entity/npc
+  - entity/character
+---
 # NPC - Růža (Hostinec U Proutěné kozy)
 
 **Tagy:** #npc #člověk #servírka #Saltmarsh_obyvatel

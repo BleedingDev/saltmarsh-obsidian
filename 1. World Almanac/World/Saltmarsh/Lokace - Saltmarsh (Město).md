@@ -1,4 +1,7 @@
 ---
+entity_type: location
+tags:
+  - entity/location
 map_height_y: 3338
 map_width_x: 2550
 scale_pixels: 268

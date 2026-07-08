@@ -1,3 +1,8 @@
+---
+entity_type: faction
+tags:
+  - entity/faction
+---
 # Frakce - Tharizdunovi kultisté
 
 **Tagy:** #frakce #kult #BBEG_frakce #kosmická_hrůza #Saltmarsh_hrozba_skrytá

@@ -1,3 +1,9 @@
+---
+entity_type: npc
+tags:
+  - entity/npc
+  - entity/character
+---
 # NPC - Keledek
 
 **Tagy:** #npc #člověk #čaroděj #Saltmarsh_obyvatel #tajemný

@@ -1,3 +1,9 @@
+---
+entity_type: relationship
+tags:
+  - entity/relationship
+  - campaign/party
+---
 # Vazba - Noll a Skjorn - Noc v cele
 
 **Tagy:** #vazba_pc #Noll_vazba #Skjorn_vazba #minulost #Saltmarsh

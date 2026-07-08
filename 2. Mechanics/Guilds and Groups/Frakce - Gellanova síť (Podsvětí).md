@@ -1,3 +1,8 @@
+---
+entity_type: faction
+tags:
+  - entity/faction
+---
 # Frakce - Gellanova síť (Podsvětí)
 
 **Tagy:** #frakce #kriminální_organizace #pašeráci #Saltmarsh

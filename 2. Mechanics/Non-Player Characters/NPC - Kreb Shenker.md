@@ -1,3 +1,9 @@
+---
+entity_type: npc
+tags:
+  - entity/npc
+  - entity/character
+---
 # NPC - Kreb Shenker
 
 **Tagy:** #npc #člověk #hostinský #Saltmarsh_obyvatel #podsvětí_kontakt

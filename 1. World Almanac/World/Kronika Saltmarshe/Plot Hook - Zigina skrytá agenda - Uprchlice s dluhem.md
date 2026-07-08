@@ -1,3 +1,9 @@
+---
+entity_type: plot_hook
+tags:
+  - entity/plot-hook
+  - campaign/plot-hook
+---
 # Plot Hook - Zigina skrytá agenda - Uprchlice s dluhem
 
 **Tagy:** #plot_hook #Zig_potenciál #tajemství #dluh #Niole_Dra_minulost

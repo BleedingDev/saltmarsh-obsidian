@@ -1,3 +1,9 @@
+---
+entity_type: npc
+tags:
+  - entity/npc
+  - entity/character
+---
 # NPC - Eda Oweland
 
 **Tagy:** #npc #člověk #obchodnice #Saltmarsh_radní #Tradicionalista_vůdce

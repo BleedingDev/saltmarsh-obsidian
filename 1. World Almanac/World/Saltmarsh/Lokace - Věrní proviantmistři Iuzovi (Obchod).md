@@ -1,3 +1,8 @@
+---
+entity_type: location
+tags:
+  - entity/location
+---
 # Lokace - Věrní proviantmistři Iuzovi (Obchod)
 
 **Tagy:** #lokace #obchod #Saltmarsh_lokace #magické_předměty #Iuz

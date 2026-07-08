@@ -1,3 +1,8 @@
+---
+entity_type: location
+tags:
+  - entity/location
+---
 # Lokace - Doly u Saltmarshe
 
 **Tagy:** #lokace #doly #Saltmarsh_okolí #královská_investice

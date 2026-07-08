@@ -1,3 +1,8 @@
+---
+entity_type: location
+tags:
+  - entity/location
+---
 # Lokace - U Proutěné kozy (Hospoda)
 
 **Tagy:** #lokace #hospoda #Saltmarsh_lokace

@@ -1,3 +1,9 @@
+---
+entity_type: npc
+tags:
+  - entity/npc
+  - entity/character
+---
 # NPC - Finnigan (Zmizelý)
 
 **Tagy:** #npc #člověk #pašerák_kontakt #status_ztracen_nebo_mrtvý #Saltmarsh_podsvětí

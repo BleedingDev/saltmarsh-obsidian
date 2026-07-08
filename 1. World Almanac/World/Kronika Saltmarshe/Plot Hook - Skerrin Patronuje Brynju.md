@@ -1,3 +1,9 @@
+---
+entity_type: plot_hook
+tags:
+  - entity/plot-hook
+  - campaign/plot-hook
+---
 # Plot Hook - Skerrin Patronuje Brynju
 
 **Tagy:** #plot_hook #aktivní #Saltmarsh #Skerrin_Wavechaser #Brynja_Tidebound #Šarlatové_Bratrstvo #manipulace

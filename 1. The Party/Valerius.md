@@ -1,3 +1,10 @@
+---
+entity_type: pc
+tags:
+  - entity/pc
+  - entity/character
+  - campaign/party
+---
 # Příběh rodičů: Predátor a písař
 
 ## Lyralei - Dítě ulic

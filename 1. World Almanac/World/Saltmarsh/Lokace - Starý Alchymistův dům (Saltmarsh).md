@@ -1,3 +1,8 @@
+---
+entity_type: location
+tags:
+  - entity/location
+---
 # Lokace - Starý Alchymistův dům (Saltmarsh)
 
 **Tagy:** #lokace #ruiny #strašidelné_místo #Saltmarsh_lokace #dobrodružství_SinisterSecret

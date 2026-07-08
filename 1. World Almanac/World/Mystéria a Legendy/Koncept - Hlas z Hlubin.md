@@ -1,3 +1,8 @@
+---
+entity_type: concept
+tags:
+  - entity/concept
+---
 # Koncept - Hlas z Hlubin
 
 **Tagy:** #koncept #entita #magie_hlubin #Tharizdun_vliv? #Brynja_spojení

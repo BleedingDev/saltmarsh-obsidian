@@ -1,3 +1,8 @@
+---
+entity_type: event
+tags:
+  - entity/event
+---
 # Událost - Skjornovo zabití
 
 **Tagy:** #událost #minulost_Skjorn #tajemství_Skjorn #zločin #násilí

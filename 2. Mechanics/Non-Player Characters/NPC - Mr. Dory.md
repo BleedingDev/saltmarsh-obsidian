@@ -1,3 +1,9 @@
+---
+entity_type: npc
+tags:
+  - entity/npc
+  - entity/character
+---
 # NPC - Mr. Dory
 
 **Tagy:** #npc #člověk #obchodník_ryby #Saltmarsh_region_vliv #Šarlatové_Bratrstvo_vůdce? #The_Styes_antagonista

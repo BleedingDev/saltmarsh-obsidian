@@ -1,3 +1,8 @@
+---
+entity_type: event
+tags:
+  - entity/event
+---
 # Událost - Střet v přístavu (Saltmarsh)
 
 **Tagy:** #událost #aktuální #Saltmarsh #konflikt #start_kampaně

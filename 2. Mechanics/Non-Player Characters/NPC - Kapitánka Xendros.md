@@ -1,3 +1,9 @@
+---
+entity_type: npc
+tags:
+  - entity/npc
+  - entity/character
+---
 # NPC - Kapitánka Xendros
 
 **Tagy:** #npc #tiefling #obchodnice #Saltmarsh_obyvatel #magické_předměty #Iuz_spojení

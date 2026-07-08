@@ -1,3 +1,8 @@
+---
+entity_type: concept
+tags:
+  - entity/concept
+---
 # Koncept - Zigovo přestrojení
 
 **Tagy:** #koncept #identita #přestrojení #Zig_tajemství #gender_role

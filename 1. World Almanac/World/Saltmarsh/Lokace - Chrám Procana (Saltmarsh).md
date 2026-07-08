@@ -1,3 +1,8 @@
+---
+entity_type: location
+tags:
+  - entity/location
+---
 # Lokace - Chrám Procana (Saltmarsh)
 
 **Tagy:** #lokace #chrám #Saltmarsh_lokace #Procan

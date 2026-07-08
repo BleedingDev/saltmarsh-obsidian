@@ -1,3 +1,9 @@
+---
+entity_type: npc
+tags:
+  - entity/npc
+  - entity/character
+---
 # NPC - Lankus Kurrid
 
 **Tagy:** #npc #člověk #hostinský #Saltmarsh_obyvatel

@@ -1,3 +1,9 @@
+---
+entity_type: npc
+tags:
+  - entity/npc
+  - entity/character
+---
 # NPC - Manistrad Copperlocks
 
 **Tagy:** #npc #trpaslice #důlní_předák #Saltmarsh_radní #Loajalista

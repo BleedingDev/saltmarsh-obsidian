@@ -1,3 +1,9 @@
+---
+entity_type: npc
+tags:
+  - entity/npc
+  - entity/character
+---
 # NPC - Sanbalet
 
 **Tagy:** #npc #člověk #mág #pašerák_vůdce #dobrodružství_SinisterSecret

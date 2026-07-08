@@ -1,3 +1,8 @@
+---
+entity_type: faction
+tags:
+  - entity/faction
+---
 # Frakce - Tradicionalisté (Saltmarsh)
 
 **Tagy:** #frakce #politická_frakce #Saltmarsh

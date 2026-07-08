@@ -1,3 +1,10 @@
+---
+entity_type: pc
+tags:
+  - entity/pc
+  - entity/character
+  - campaign/party
+---
 # Noll
 
 **Tagy:** #PC #elf #nalezenec #Saltmarsh_rodák

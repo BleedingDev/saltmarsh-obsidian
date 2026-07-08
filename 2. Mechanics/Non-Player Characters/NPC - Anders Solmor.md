@@ -1,3 +1,9 @@
+---
+entity_type: npc
+tags:
+  - entity/npc
+  - entity/character
+---
 # NPC - Anders Solmor
 
 **Tagy:** #npc #člověk #obchodník #Saltmarsh_radní_potenciální #idealista

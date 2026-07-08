@@ -1,3 +1,9 @@
+---
+entity_type: npc
+tags:
+  - entity/npc
+  - entity/character
+---
 # NPC - Skerrin Wavechaser
 
 **Tagy:** #npc #člověk #sluha #Saltmarsh_obyvatel #Šarlatové_Bratrstvo_agent #Patron_potenciální
