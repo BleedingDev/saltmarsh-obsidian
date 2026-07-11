@@ -83,17 +83,17 @@
             "id": "fc75270a1c2273e3",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Lokace - U Proutěné kozy (Hospoda)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Saltmarsh/Lokace - U Proutěné kozy (Hospoda).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - U Proutěné kozy (Hospoda)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Lokace - Saltmarsh (Město)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lokace - Saltmarsh (Město)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":26},\"to\":{\"line\":32,\"ch\":26}},\"scroll\":30.9140625}"
                 },
                 {
                   "title": "Lokace - Prázdná Síť (Hospoda)",
@@ -304,7 +304,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md",
+                "file": "1. World Almanac/World/Saltmarsh/Lokace - Prázdná Síť (Hospoda).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -319,7 +319,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lokace - Saltmarsh (Město)"
+              "title": "Lokace - Prázdná Síť (Hospoda)"
             }
           },
           {
@@ -330,6 +330,12 @@
               "stack": [
                 {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
                   "eState": "{}"
                 },
                 {
@@ -407,14 +413,28 @@
               ]
             },
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "1. The Party/Brynja Tidebound.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Brynja Tidebound"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -785,16 +805,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fc75270a1c2273e3",
+  "active": "03fda924bfe0d1af",
   "lastOpenFiles": [
-    "z_Assets/saltmarsh-legends-desc.pdf",
+    "2. Mechanics/Guilds and Groups/Frakce - Tharizdunovi kultisté.md",
+    "2. Mechanics/Guilds and Groups/Frakce - Tradicionalisté (Saltmarsh).md",
+    "2. Mechanics/Non-Player Characters/NPC - Kapitánka Xendros.md",
+    "1. World Almanac/World/Saltmarsh/Lokace - Prázdná Síť (Hospoda).md",
     "1. World Almanac/World/Saltmarsh/Lokace - Saltmarsh (Město).md",
+    "z_Assets/saltmarsh-legends-desc.pdf",
     "2. Mechanics/Non-Player Characters/NPC - Eliander Fireborn.md",
     "1. World Almanac/World/Saltmarsh/Lokace - U Proutěné kozy (Hospoda).md",
     "2. Mechanics/Guilds and Groups/Frakce - Loajalisté (Saltmarsh).md",
     "1. World Almanac/World/Kronika Saltmarshe/Událost - Střet v přístavu (Saltmarsh).md",
     "2. Session Journals/Preparations - Scenes/2. Kult v dole (hotovo).md",
-    "1. World Almanac/World/Saltmarsh/Lokace - Prázdná Síť (Hospoda).md",
     "1. World Almanac/World/Saltmarsh/Lokace - Dwarven Anvil (Kovárna).md",
     "1. World Almanac/World/Saltmarsh/Lokace - Praskající vlasec (Hospoda).md",
     "1. World Almanac/World/Saltmarsh/Lokace - Doly u Saltmarshe.md",
@@ -816,8 +839,6 @@
     "2. Mechanics/Non-Player Characters/NPC - Kreb Shenker.md",
     "2. Session Journals/Sessions",
     "2. Session Journals/Preparations - Scenes/2. Kult v dole.md",
-    "1. The Party/Vazby/Vazba - Skjorn a Brynja - Společný chrám.md",
-    "1. The Party/Vazby/Vazba - Noll a Skjorn - Noc v cele.md",
     "z_Assets/saltmarsh-legends-labels.jpg",
     "z_Assets/saltmarsh-old.png",
     "z_Assets/image-1.png",
